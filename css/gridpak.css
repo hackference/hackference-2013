@@ -1,0 +1,97 @@
+
+/*  SECTIONS  ============================================================================= */
+
+.section {
+    clear: both;
+    padding: 0px;
+    margin: 0px auto;
+    width: 1000px;
+}
+
+.section-fluid {
+    clear: both;
+    padding: 0px;
+    margin: 0px auto;
+    width: 100%;
+}
+
+/*  GROUPING  ============================================================================= */
+
+
+.group:before,
+.group:after {
+    content:"";
+    display:table;
+}
+.group:after {
+    clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+/*  GRID COLUMN SETUP   ==================================================================== */
+
+.col {
+    display: block;
+    float:left;
+    margin: 1% 0 1% 1.6%;
+}
+
+.col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
+
+/*  GRID OF TEN   ============================================================================= */
+
+
+.span_10_of_10 {
+    width: 100%;
+}
+
+.span_9_of_10 {
+    width: 89.84%;
+}
+
+.span_8_of_10 {
+    width: 79.68%;
+}
+
+.span_7_of_10 {
+    width: 69.52%; 
+}
+
+.span_6_of_10 {
+    width: 59.36%; 
+}
+
+.span_5_of_10 {
+    width: 49.2%; 
+}
+
+.span_4_of_10 {
+    width: 39.04%; 
+}
+
+.span_3_of_10 {
+    width: 28.88%;
+}
+
+.span_2_of_10 {
+    width: 18.72%; 
+}
+
+.span_1_of_10 {
+    width: 8.56%; 
+}
+
+
+/*  GRID OF THREE   =========================================================================== */
+
+.span_1_of_3 {
+    width: 30.2%;
+}
+
+/*  GRID OF FOUR   =========================================================================== */
+
+.span_1_of_4 {
+    width: 21.5%;
+}

@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+RewriteEngine On
+AddDefaultCharset utf-8
+# Options All -Indexes
+
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f 
+
+# Login and Logout
+RewriteRule ^speakers$										speakers.php
+RewriteRule ^speakers/$										speakers.php
