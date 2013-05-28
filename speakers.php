@@ -48,7 +48,62 @@ include("header.php");
 					<img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
 				</div>
 				<div class="speakerName">Peter Bourgo</div>
-				<p>'m a distributed systems developer working on search and discovery problems for SoundCloud.</p>
+				<p>I'm a distributed systems developer working on search and discovery problems for SoundCloud.</p>
+			</div>
+			
+		</div>
+
+		<div class="section group">		
+
+			<div class="col span_5_of_10 speakerSingle">
+				<div class="speakerPicture">
+					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
+				</div>
+				<div class="speakerName">Phil Leggetter</div>
+				<p>Phil Leggetter is a Developer Evangelist at Pusher, a real-time web hosted API for quickly, easily and securely adding scalable real-time functionality to web and mobile apps . He’s been developing and using real-time web technologies for over 10 years. His focus is to help people use these technologies to build the next generation of interactive and engaging real-time web applications.</p>
+			</div>
+
+			<div class="col span_5_of_10 speakerSingle">
+				<div class="speakerPicture">
+					<img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
+				</div>
+				<div class="speakerName">Cristiano Betta</div>
+				<p>Cristiano is a Developer Evangelist at PayPal and event organiser at Geeks of London. He loves to code in Ruby, Rails and Javascript. He appreciates web standards, continuous integration, distributed version control systems, test driven development, and good coffee.</p>
+			</div>
+			
+		</div>
+
+		<div class="section group">		
+
+			<div class="col span_5_of_10 speakerSingle">
+				<div class="speakerPicture">
+					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
+				</div>
+				<div class="speakerName">Martyn Davies</div>
+				<p>Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.</p>
+                <p>An experienced events organiser, Martyn has organises Music Hack Day's in London and Cannes each year as well as co-founding SportsTech Hack Day and advising other companies on how to relay their API message to developers through events.</p>
+                <p>Martyn has been working in music, broadcasting and technology for over 14 years and has held several exciting roles at the BBC and Universal Music Group.</p>
+                <p>Outside of SendGrid, Martyn works with companies on API design and developer outreach strategies as well as mentoring on the Ignite100, dotForge and Oxygen accelerator programmes.</p>
+			</div>
+
+			<div class="col span_5_of_10 speakerSingle">
+				<div class="speakerPicture">
+					<img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
+				</div>
+				<div class="speakerName">George Ornbo</div>
+				<p>George is a full-stack JavaScript developer. He is the author of "Sams Teach Yourself Node.js in 24 hours" and is currently working on an online gambling startup.</p>
+			</div>
+			
+		</div>
+
+		<div class="section group">
+
+			<div class="col span_5_of_10 speakerSingle">
+				<div class="speakerPicture">
+					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+				</div>
+				<div class="speakerName">Joe Littlejohn</div>
+				<p>Coming soon...</p>
 			</div>
 			
 		</div>

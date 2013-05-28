@@ -80,19 +80,19 @@ include("header.php");
 		<div class="section group speakers">			
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='http://fakeimg.pl/100x100/282828/eae0d0/' />
+					<img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
 					<div class="speakerCaption"><a href=''>George Ornbo</a></div>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='http://fakeimg.pl/100x100/282828/eae0d0/' />
-					<div class="speakerCaption"><a href=''>Joe Littlejohn</a></div>
+					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
+					<div class="speakerCaption"><a href=''>Martyn Davies</a></div>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='http://fakeimg.pl/100x100/282828/eae0d0/' />
+					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
 					<div class="speakerCaption"><a href=''>Joe Littlejohn</a></div>
 				</div>
 			</div>

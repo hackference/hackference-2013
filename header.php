@@ -28,7 +28,7 @@ include("config.php");
 	{
 		?>
 		<div id="flashMessage">
-			Get in quick - <strong><a href=''>Early bird tickets only £65</a></strong>
+			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65</a></strong>
 		</div>
 		<?php
 	}
