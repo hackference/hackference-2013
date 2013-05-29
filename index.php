@@ -116,29 +116,6 @@ include("header.php");
 	</div>
 
 
-	<div id="sub">
-		<div class="section group">
-			<div class="col span_10_of_10 sub_heading">
-				<h3>Sponsors</h3>
-				<span class="line"></span>
-			</div>
-		</div>
-		<div class="section group sponsors">
-			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.sendgrid.com/'><img src='<?php echo $site_url; ?>img/sponsors/sendgrid.png' /></a>
-			</div>
-			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.soundcloud.com/'><img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' /></a>
-			</div>
-			<div class="col span_1_of_4 sponsor">
-				<a href='http://github.com/'><img src='<?php echo $site_url; ?>img/sponsors/github.png' /></a>
-			</div>
-			<div class="col span_1_of_4 sponsor">
-				<a href='http://campaignmonitor.com/'><img src='<?php echo $site_url; ?>img/sponsors/campaign_monitor.png' /></a>
-			</div>
-		</div>
-	</div>
-
 <?php
 
 include("footer.php");

@@ -1,11 +1,20 @@
 Options +FollowSymLinks
 RewriteEngine On
 AddDefaultCharset utf-8
+
+# Remove WWW
+#RewriteCond %{HTTP_HOST} !^hackference\.co\.uk$ [NC]
+#RewriteRule ^(.*)$ http://hackference.co.uk/$1 [R=301,L]
+
 # Options All -Indexes
 
 RewriteCond %{SCRIPT_FILENAME} !-d  
 RewriteCond %{SCRIPT_FILENAME} !-f 
 
+# Catch attempt
+RewriteCond %{SCRIPT_FILENAME}\.php -f  
+RewriteRule ^(.*)$										$1.php?current_page=$1
+
 # Login and Logout
-RewriteRule ^speakers$										speakers.php
-RewriteRule ^speakers/$										speakers.php
+#RewriteRule ^speakers$										speakers.php
+#RewriteRule ^speakers/$										speakers.php

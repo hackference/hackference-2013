@@ -45,10 +45,10 @@ include("config.php");
 					The Custard Factory, August 23 - 25 2013
 				</div>
 				<ul class="topNav">
-					<li><a href='<?php echo $site_url; ?>speakers' <?php if ($page == "Speakers") { echo "class='active'"; } ?>>Speakers</a></li>
-					<li><a href='<?php echo $site_url; ?>schedule'>Schedule</a></li>
-					<li><a href='<?php echo $site_url; ?>hackathon'>Hackathon</a></li>
-					<li><a href='<?php echo $site_url; ?>location'>Location</a></li>
+					<li><a href='<?php echo $site_url; ?>speakers' <?php if ($page == "speakers") { echo "class='active'"; } ?>>Speakers</a></li>
+					<li><a href='<?php echo $site_url; ?>schedule' <?php if ($page == "schedule") { echo "class='active'"; } ?>>Schedule</a></li>
+					<li><a href='<?php echo $site_url; ?>hackathon' <?php if ($page == "hackathon") { echo "class='active'"; } ?>>Hackathon</a></li>
+					<li><a href='<?php echo $site_url; ?>location' <?php if ($page == "location") { echo "class='active'"; } ?>>Location</a></li>
 					<li class="navButton"><a href='<?php echo $site_url; ?>buy'>Buy Tickets</a></li>
 				</ul>
 			</div>
