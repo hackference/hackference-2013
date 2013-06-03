@@ -1,8 +1,3 @@
-<?php
-
-include("config.php");
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,12 +32,12 @@ include("config.php");
 
 	<header>
 		<div class="section group">
-			<div class="col span_3_of_10">
-				<h1><a href='<?php echo $site_url; ?>'><img src='img/hackference_logo.png' width="100%"></a></h1>
+			<div id="header-logo" class="col span_4_of_10">
+				<a href='<?php echo $site_url; ?>'><img src='img/hackference_logo.png' width="100%"></a>
 			</div>
-			<div class="col span_7_of_10">
+			<div class="col span_6_of_10 header-information">
 				<div class="topNavInfo">
-					The Custard Factory, August 23 - 25 2013
+					Digbeth, August 30 - September 1 2013
 				</div>
 				<ul class="topNav">
 					<li><a href='<?php echo $site_url; ?>speakers' <?php if ($page == "speakers") { echo "class='active'"; } ?>>Speakers</a></li>

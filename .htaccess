@@ -12,9 +12,5 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f 
 
 # Catch attempt
-RewriteCond %{SCRIPT_FILENAME}\.php -f  
-RewriteRule ^(.*)$										$1.php?current_page=$1
-
-# Login and Logout
-#RewriteRule ^speakers$										speakers.php
-#RewriteRule ^speakers/$										speakers.php
+RewriteRule ^(.*)$										bootstrap.php?file_path=$1
+RewriteRule ^$										     bootstrap.php?file_path=index

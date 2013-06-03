@@ -1,10 +1,3 @@
-<?php
-
-$page = "Speakers";
-include("header.php");
-
-?>
-
 	<div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
@@ -16,14 +9,22 @@ include("header.php");
 		<div class="section group">		
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="syd-lawrence" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/syd-lawrence.png' />
 				</div>
 				<div class="speakerName">Syd Lawrence</div>
 				<p>Syd Lawrence is cofounder of We Make Awesome Sh, and is a developer evangelist at Twilio. He's a developer who is interested in too much tech to be particularly good at any of them. He makes stuff for fun, for profit, for lols. He's made things for companies such as Coca Cola and Microsoft, and musicians such as the rolling stones, swedish house mafia, and kylie minogue.</p>
+                <ul>
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" />
+                        <a href="http://twitter.com/sydlawrence" >Twitter</a>
+                    </li>
+                </ul>
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="lorna-mitchell" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/lorna-mitchell.jpg' />
 				</div>
@@ -36,6 +37,7 @@ include("header.php");
 		<div class="section group">		
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="david-mytton" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
 				</div>
@@ -44,10 +46,11 @@ include("header.php");
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="peter-bourgon" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
 				</div>
-				<div class="speakerName">Peter Bourgo</div>
+				<div class="speakerName">Peter Bourgon</div>
 				<p>I'm a distributed systems developer working on search and discovery problems for SoundCloud.</p>
 			</div>
 			
@@ -56,6 +59,7 @@ include("header.php");
 		<div class="section group">		
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="phil-leggetter" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
 				</div>
@@ -64,6 +68,7 @@ include("header.php");
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="cristiano-betta" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
 				</div>
@@ -73,32 +78,20 @@ include("header.php");
 			
 		</div>
 
-		<div class="section group">		
+		<div class="section group">	
 
 			<div class="col span_5_of_10 speakerSingle">
-				<div class="speakerPicture">
-					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
-				</div>
-				<div class="speakerName">Martyn Davies</div>
-				<p>Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.</p>
-                <p>An experienced events organiser, Martyn has organises Music Hack Day's in London and Cannes each year as well as co-founding SportsTech Hack Day and advising other companies on how to relay their API message to developers through events.</p>
-                <p>Martyn has been working in music, broadcasting and technology for over 14 years and has held several exciting roles at the BBC and Universal Music Group.</p>
-                <p>Outside of SendGrid, Martyn works with companies on API design and developer outreach strategies as well as mentoring on the Ignite100, dotForge and Oxygen accelerator programmes.</p>
-			</div>
-
-			<div class="col span_5_of_10 speakerSingle">
+                <a name="george-ornbo" ></a>
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
 				</div>
 				<div class="speakerName">George Ornbo</div>
 				<p>George is a full-stack JavaScript developer. He is the author of "Sams Teach Yourself Node.js in 24 hours" and is currently working on an online gambling startup.</p>
+                
 			</div>
-			
-		</div>
-
-		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
+                <a name="joe-littlejohn" ></a>
 				<div class="speakerPicture">
 					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
 				</div>
@@ -107,10 +100,19 @@ include("header.php");
 			</div>
 			
 		</div>
+
+		<div class="section group">	
+
+			<div class="col span_5_of_10 speakerSingle">
+                <a name="mark-godfrey" ></a>
+				<div class="speakerPicture">
+					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+				</div>
+				<div class="speakerName">Mark Godfrey</div>
+				<p>Coming soon...</p>
+			</div>
+            
+		</div>
 		
 		
 	</div>
-
-<?php
-
-include("footer.php");

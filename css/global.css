@@ -70,7 +70,6 @@ h4 small {
 }
 
 #flashMessage {
-	height: 40px;
 	text-align: center;
 	background: #00BFF3;
 	font-family: Lato;
@@ -303,6 +302,26 @@ header ul.topNav li a:hover {
 	font-size: 14px;
 	line-height: 150%;
 	text-align: center;
+}
+
+ul.schedule-list {
+    padding: 0px;
+}
+
+ul.schedule-list li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+ul.schedule-list li p, ul.schedule-list li h4 {
+    margin: 0px;
+    text-align: left;
+}
+
+ul.schedule-list li a {
+    color: #42454c;
+    text-decoration: none;
+    border-bottom: 1px dotted #1a1c1f;
 }
 
 .footer {
