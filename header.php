@@ -13,6 +13,10 @@
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/normalize.css" />
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/gridpak.css" />
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/global.css" />
+    
+    <!-- JS -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" ></script>
+    <script type="text/javascript" src="<?php echo $site_url; ?>js/main.js" ></script>
 
 </head>
 <body>
@@ -39,6 +43,9 @@
 				<div class="topNavInfo">
 					Digbeth, August 30 - September 1 2013
 				</div>
+                <div class="openClose" >
+                    <img src="<?php echo $site_url; ?>img/menu.png" />
+                </div>
 				<ul class="topNav">
 					<li><a href='<?php echo $site_url; ?>speakers' <?php if ($page == "speakers") { echo "class='active'"; } ?>>Speakers</a></li>
 					<li><a href='<?php echo $site_url; ?>schedule' <?php if ($page == "schedule") { echo "class='active'"; } ?>>Schedule</a></li>

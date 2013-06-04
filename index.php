@@ -32,61 +32,79 @@
 		<div class="section group speakers">
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/syd-lawrence.png' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#syd-lawrence'>Syd Lawrence</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#syd-lawrence'>
+                        <img src='<?php echo $site_url; ?>img/speakers/syd-lawrence.png' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#syd-lawrence'>Syd Lawrence</a></div>
+                    </a>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/lorna-mitchell.jpg' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#lorna-mitchell'>Lorna Mitchell</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#lorna-mitchell'>
+                        <img src='<?php echo $site_url; ?>img/speakers/lorna-mitchell.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#lorna-mitchell'>Lorna Mitchell</a></div>
+                    </a>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#david-mytton'>David Mytton</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#david-mytton'>
+                        <img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#david-mytton'>David Mytton</a></div>
+                    </a>
 				</div>
 			</div>			
 		</div>
 		<div class="section group speakers">
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#peter-bourgon'>Peter Bourgon</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#peter-bourgon'>
+                        <img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#peter-bourgon'>Peter Bourgon</a></div>
+                    </a>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#cristiano-betta'>Cristiano Betta</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#cristiano-betta'>
+                        <img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#cristiano-betta'>Cristiano Betta</a></div>
+                    </a>
 				</div>
 			</div>
 			
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#phil-leggetter'>Phil Leggetter</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#phil-leggetter'>
+                        <img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#phil-leggetter'>Phil Leggetter</a></div>
+                    </a>
 				</div>
 			</div>
 		</div>
 		<div class="section group speakers">			
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#george-ornbo'>George Ornbo</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#george-ornbo'>
+                        <img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#george-ornbo'>George Ornbo</a></div>
+                    </a>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#joe-littlejohn'>Joe Littlejohn</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#joe-littlejohn'>
+                        <img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#joe-littlejohn'>Joe Littlejohn</a></div>
+                    </a>
 				</div>
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
-					<div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#mark-godfrey'>Mark Godfrey</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#mark-godfrey'>
+                        <img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#mark-godfrey'>Mark Godfrey</a></div>
+                    </a>
 				</div>
 			</div>
 		</div>

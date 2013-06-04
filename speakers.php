@@ -15,10 +15,18 @@
 				</div>
 				<div class="speakerName">Syd Lawrence</div>
 				<p>Syd Lawrence is cofounder of We Make Awesome Sh, and is a developer evangelist at Twilio. He's a developer who is interested in too much tech to be particularly good at any of them. He makes stuff for fun, for profit, for lols. He's made things for companies such as Coca Cola and Microsoft, and musicians such as the rolling stones, swedish house mafia, and kylie minogue.</p>
-                <ul>
+                <ul class="speakLinks">
                     <li>
-                        <img src="http://twitter.com/favicon.ico" />
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
                         <a href="http://twitter.com/sydlawrence" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://sydlawrence.com/apple-touch-icon-precomposed.png" width="16px" />
+                        <a href="http://sydlawrence.com/" >Sydlawrence.com</a>
+                    </li>
+                    <li>
+                        <img src="http://wemakeawesomesh.it/favicon.ico" width="16px" />
+                        <a href="http://wemakeawesomesh.it/" >WeMakeAwesomeSxh.</a>
                     </li>
                 </ul>
 			</div>
@@ -30,6 +38,16 @@
 				</div>
 				<div class="speakerName">Lorna Mitchell</div>
 				<p>Lorna is an independent web development consultant, author and trainer based in Leeds, UK. Her books include "PHP Master" and "PHP Web APIs", and she is also published regularly at a number of outlets including netmagazine and of course her own blog lornajane.net. Lorna has spoken at technical events around the world on technical topics around PHP and APIs, regularly delivers technical training sessions and is also active as a mentor with PHPWomen.org. She is an experienced event organiser and speaker, having hosted the Dutch PHP Conference and co-founded the PHP North West conference and user group. In her spare time, she leads the joind.in open source project, which provides a platform for real-time, public feedback at community events.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="http://twitter.com/lornajane" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://www.lornajane.net/wp-content/themes/lornajane_2011/images/favicon.ico" width="16px" />
+                        <a href="http://www.lornajane.net/" >LORNAJANE</a>
+                    </li>
+                </ul>
 			</div>
 
 		</div>
@@ -43,6 +61,20 @@
 				</div>
 				<div class="speakerName">David Mytton</div>
 				<p>David Mytton is the founder of server monitoring tool, Server Density, where he has been using MongoDB in production for almost 4 years. He has been programming in PHP and Python for over 10 years, regularly speaks about MongoDB (including starting the London MongoDB User Group), co-founded the Open Rights Group and can often be found cycling in London or drinking tea in Japan.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/davidmytton" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://www.serverdensity.com/favicon.ico" width="16px" />
+                        <a href="http://www.serverdensity.com/" >ServerDensity</a>
+                    </li>
+                    <li>
+                        <img src="http://serverdensity.wpengine.netdna-cdn.com/wp-content/themes/blog.sd/favicon.png" width="16px" />
+                        <a href="http://blog.serverdensity.com/" >ServerDensity Blog</a>
+                    </li>
+                </ul>
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">
@@ -52,6 +84,19 @@
 				</div>
 				<div class="speakerName">Peter Bourgon</div>
 				<p>I'm a distributed systems developer working on search and discovery problems for SoundCloud.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/peterbourgon" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="https://soundcloud.com/favicon.ico" width="16px"/>
+                        <a href="https://soundcloud.com/peterbourgon" >SoundCloud</a>
+                    </li>
+                    <li>
+                        <a href="http://peter.bourgon.org/" >Peter.Bourgon.Org</a>
+                    </li>
+                </ul>
 			</div>
 			
 		</div>
@@ -65,6 +110,16 @@
 				</div>
 				<div class="speakerName">Phil Leggetter</div>
 				<p>Phil Leggetter is a Developer Evangelist at Pusher, a real-time web hosted API for quickly, easily and securely adding scalable real-time functionality to web and mobile apps . He’s been developing and using real-time web technologies for over 10 years. His focus is to help people use these technologies to build the next generation of interactive and engaging real-time web applications.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/leggetter" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://www.leggetter.co.uk/wp-content/uploads/2012/09/favicon1.png" width="16px"/>
+                        <a href="http://www.leggetter.co.uk/" >Leggeter.co.uk</a>
+                    </li>
+                </ul>
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">
@@ -74,6 +129,20 @@
 				</div>
 				<div class="speakerName">Cristiano Betta</div>
 				<p>Cristiano is a Developer Evangelist at PayPal and event organiser at Geeks of London. He loves to code in Ruby, Rails and Javascript. He appreciates web standards, continuous integration, distributed version control systems, test driven development, and good coffee.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/cbetta" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://cristianobetta.com/favicon.ico" width="16px"/>
+                        <a href="http://cristianobetta.com/" >CristianoBetta.com</a>
+                    </li>
+                    <li>
+                        <img src="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" width="16px"/>
+                        <a href="http://developer.paypal.com/" >PayPal | Developer</a>
+                    </li>
+                </ul>
 			</div>
 			
 		</div>
@@ -87,7 +156,16 @@
 				</div>
 				<div class="speakerName">George Ornbo</div>
 				<p>George is a full-stack JavaScript developer. He is the author of "Sams Teach Yourself Node.js in 24 hours" and is currently working on an online gambling startup.</p>
-                
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/shapeshed" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="http://shapeshed.com/favicon.ico" width="16px"/>
+                        <a href="http://shapeshed.com/" >ShapeShed</a>
+                    </li>
+                </ul>
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">

@@ -121,13 +121,23 @@ header ul.topNav {
 	padding:0;
 }
 
+header div.openClose {
+    width: 100%;
+    display: none;
+}
+header div.openClose img {
+    padding: 5px;
+    margin-bottom: -15px;
+}
+
 header ul.topNav li {
-	float: left;
+	/*float: left;*/
+    display: inline;
 	margin-right: 30px;
 }
 
 header ul.topNav li:last-child {
-	float: left;
+	/*float: left;*/
 	margin-right: 0px;
 }
 
@@ -193,6 +203,9 @@ header ul.topNav li a:hover {
 	width: 100%;
 }
 
+#sub {
+    clear: both;
+}
 #sub .sub_heading {
 	text-align: center;
 	position: relative;
@@ -270,7 +283,6 @@ header ul.topNav li a:hover {
 }
 
 .sponsors .sponsor {
-	padding: 10px;
 }
 
 .sponsors .sponsor img {
@@ -302,6 +314,30 @@ header ul.topNav li a:hover {
 	font-size: 14px;
 	line-height: 150%;
 	text-align: center;
+}
+
+.speakLinks {
+    text-align: center;
+}
+
+.speakLinks li {
+    display: inline-block;
+}
+
+.speakLinks li img{
+    margin-bottom: -2px;
+}
+
+.speakLinks li a {
+    color: #42454c;
+    font-family: Lato;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.speakLinks li a:hover {
+    border-bottom: 1px dotted #1a1c1f;
 }
 
 ul.schedule-list {

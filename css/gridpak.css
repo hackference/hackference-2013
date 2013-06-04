@@ -110,10 +110,16 @@
     }
 }
 /* Tablet */
-@media all and ( max-width:750px) {
+@media all and ( max-width:768px) {
     .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10 {
         width: 100%; 
         float: none;
+    }
+    .col.span_10_of_10, .col.span_9_of_10, .col.span_8_of_10, .col.span_7_of_10, .col.span_6_of_10, .col.span_5_of_10 {
+        margin-right:0;
+    }
+    header ul.topNav li {
+        margin-right: 2px !important;
     }
 }
 @media all and ( max-width:650px) {
@@ -127,11 +133,22 @@
         float: none;
         text-align: center;
     }
+    header ul.topNav li {
+        margin-right: 30px !important;
+    }
+    header ul.topNav li:last-child {
+        margin-right: 0px !important;
+    }
     .topNavInfo {
         float: none !important;
     }
 }   
 /* Smartphone */
+@media all and ( min-width:480px) {
+    header ul.topNav {
+        display: block !important;
+    }
+}
 @media all and ( max-width:480px) {
     .speakerCaption {
         font-size: inherit !important;
@@ -140,12 +157,54 @@
         width: 100%; 
         float: none;
     }
+    .col.span_10_of_10, .col.span_9_of_10, .col.span_8_of_10, .col.span_7_of_10, .col.span_6_of_10, .col.span_5_of_10 {
+        margin-left:0;
+    }
     .span_1_of_4 {
         width: 40.2%;
     }
+    /* Navigation */
+    header {
+        height: auto !important;
+    }
+    header div.openClose {
+        display: block !important;
+    }
+    header ul.topNav {
+        display: none;
+        float: none !important;
+    }
+    header ul.topNav.open {
+        display: block;
+    }
+    header ul.topNav li {
+        width: 100%;
+        display: block !important;
+        text-align: center !important;
+        height: 30px;
+    }
+    header ul.topNav li.navButton {
+        padding: 5px 0px 0px !important;
+    }
+    /* Page Copy */
+    .paras p {
+        font-size: 15px !important;
+    }
+    .paras_small p {
+        font-size: 13px !important;
+    }
 }
-@media all and ( max-width:300px) {
+@media all and ( max-width:390px) {
     .speakerCaption {
-        font-size: 11px !important;
+        font-size: 14px !important;
+        padding: 5px 5px !important;
+        line-height: 10px !important;
+    }
+}
+@media all and ( max-width:320px) {
+    .speakerCaption {
+        font-size: 12px !important;
+        padding: 5px 5px !important;
+        line-height: 10px !important;
     }
 }
