@@ -244,6 +244,40 @@ p.left-align {
 	text-align: center;
 }
 
+.paras p a, .paras_small p a {
+    color: #42454c;
+    font-family: Lato;
+    font-weight: 700;
+    text-decoration: none;
+}
+.paras p a:hover, .paras_small p a:hover {
+    border-bottom: 1px dotted #1a1c1f;
+}
+
+.buy-button {
+    display: inline-block;
+    width: 130px;
+    height: 30px;
+    background-color: #FFF200;
+    font-family: Lato;
+    padding: 5px 15px;
+    margin: -7px 0px 0 0;
+    font-size: 18px;
+    -webkit-transition: 0.25s;
+    -moz-transition: 0.25s;
+    -o-transition: 0.25s;
+    transition: 0.25s;
+    -webkit-backface-visibility: hidden;
+    border:0;
+}
+.buy-button a {
+    color: #00A651 !important;
+}
+.buy-button a:hover {
+	color: #1a1c1f;
+	border-bottom: 1px dotted #1a1c1f;
+}
+
 .speakers .speaker {
 	padding: 10px;
 }
