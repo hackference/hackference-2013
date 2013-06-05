@@ -111,7 +111,7 @@
 }
 /* Tablet */
 @media all and ( max-width:768px) {
-    .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10 {
+    .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10, .span_4_of_10 {
         width: 100%; 
         float: none;
     }
@@ -153,12 +153,12 @@
     .speakerCaption {
         font-size: inherit !important;
     }
-    .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10 {
+    .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10, .span_4_of_10 {
         width: 100%; 
         float: none;
     }
     .col.span_10_of_10, .col.span_9_of_10, .col.span_8_of_10, .col.span_7_of_10, .col.span_6_of_10, .col.span_5_of_10 {
-        margin-left:0;
+        /*margin-left:0;*/
     }
     .span_1_of_4 {
         width: 40.2%;

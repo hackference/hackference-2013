@@ -230,7 +230,9 @@ header ul.topNav li a:hover {
 	line-height: 150%;
 	text-align: center;
 }
-
+p.left-align {
+    text-align: left !important;
+}
 .paras_small {
 	padding: 0 10%;
 }
