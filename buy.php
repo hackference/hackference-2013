@@ -8,7 +8,7 @@
 		<div class="section group">
 			<div class="col span_10_of_10">
                 <div class="paras" >
-                    <p>Tickets will be available soon.</p>
+                    <p>Tickets will be available through EventBrite soon.</p>
                 </div>
 				<!-- EventBrite JS Block -->
 				<!-- EventBrite JS Block -->
