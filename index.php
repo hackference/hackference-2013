@@ -120,7 +120,7 @@
 		<div class="section group">			
 			<div class="col span_10_of_10">
 				<div class="paras_small">
-					<p>After the conference a whole weekend of coding is afoot (August 31th and September 1st). That means 100 developers gathering together to build some great applications on different platforms in under 36 hours. With access to the knowledge gained at the conference and the APIs and SDKs of the hackathon providers, who will walk away with the prizes?</p>
+					<p>After the conference a whole weekend of coding is afoot (August 31th and September 1st). That means 100 developers gathering together to build some great applications on different platforms in under 36 hours. With access to the knowledge gained at the conference combined with the <a href="<?php echo $site_url; ?>hackathon#partners" title="API and SDK Partners" >APIs and SDKs of the hackathon partners</a>, who will walk away with the prizes?</p>
 				</div>
 			</div>
 		</div>

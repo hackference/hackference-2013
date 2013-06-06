@@ -26,7 +26,7 @@
                     </li>
                     <li>
                         <img src="http://wemakeawesomesh.it/favicon.ico" width="16px" />
-                        <a href="http://wemakeawesomesh.it/" >WeMakeAwesomeSxh.</a>
+                        <a href="http://wemakeawesomesh.it/" >WeMakeAwesomeSh.</a>
                     </li>
                 </ul>
 			</div>
