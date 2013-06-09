@@ -10,7 +10,7 @@
 
 			<div class="col span_10_of_10">
                 <div class="col span_10_of_10 sub_heading">
-                    <h3>Conference - 23rd August</h3>
+                    <h3>Conference - Fri 31st August</h3>
                     <span class="line"></span>
                 </div>
                 <div class="col span_10_of_10">
@@ -84,7 +84,7 @@
                 <div class="col span_5_of_10 speakerSingle">
                     
                     <!--<div class="col span_10_of_10 sub_heading">-->
-                        <h3>24th August</h3>
+                        <h3>Sat 31st August</h3>
                         <ul class="schedule-list">
                             <li>
                                 <h4>09:30 - 10:30 Registration</h4>
@@ -115,7 +115,7 @@
                 <div class="col span_5_of_10 speakerSingle">
                     
                     <div class="col span_10_of_10 sub_heading">
-                        <h3>25th August</h3>
+                        <h3>Sun 1st September</h3>
                         <ul class="schedule-list">
                             <li>
                                 <h4>09:00 - 10:00 Breakfast</h4>
