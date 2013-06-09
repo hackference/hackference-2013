@@ -10,7 +10,7 @@
 
 			<div class="col span_10_of_10">
                 <div class="col span_10_of_10 sub_heading">
-                    <h3>Conference - Fri 31st August</h3>
+                    <h3>Conference - Fri 30th August</h3>
                     <span class="line"></span>
                 </div>
                 <div class="col span_10_of_10">
