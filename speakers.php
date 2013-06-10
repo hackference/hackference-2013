@@ -189,6 +189,29 @@
 				<div class="speakerName">Mark Godfrey</div>
 				<p>Coming soon...</p>
 			</div>
+
+			<div class="col span_5_of_10 speakerSingle">
+                <a name="martyn-davies" ></a>
+				<div class="speakerPicture">
+					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
+				</div>
+				<div class="speakerName">Mark Godfrey</div>
+				<p>
+                    Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.
+                    <br/>
+                    An experienced events organiser, Martyn has organises Music Hack Day's in London and Cannes each year as well as co-founding SportsTech Hack Day and advising other companies on how to relay their API message to developers through events.
+                    <br/>
+                    Martyn has been working in music, broadcasting and technology for over 14 years and has held several exciting roles at the BBC and Universal Music Group.
+                    <br/>
+                    Outside of SendGrid, Martyn works with companies on API design and developer outreach strategies as well as mentoring on the Ignite100, dotForge and Oxygen accelerator programmes.
+                </p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/martyndavies" >Twitter</a>
+                    </li>
+                </ul>
+			</div>
             
 		</div>
 		

@@ -20,51 +20,53 @@
                             <p>Doors open for people to come in, grab coffee and register for the day</p>
                         </li>
                         <li>
-                            <h4>09:30 - 10:15 Opening Keynote</h4>
+                            <h4>09:30 - 10:10 Opening Keynote</h4>
                             <p><a href="/speakers#syd-lawrence" title="Opening Keynote by Syd Lawrence" >Syd Lawrence</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>10:25 - 11:10 Talk TBC</h4>
+                            <h4>10:20 - 11:00 Talk TBC</h4>
                             <p><a href="/speakers#lorna-mitchell" >Lorna Mitchell</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>11:20 - 12:05 Realtime Web Apps in the Wild</h4>
+                            <h4>11:20 - 12:00 Realtime Web Apps in the Wild</h4>
                             <p><a href="/speakers#phil-leggetter" title="Realtime Web Apps in the Wild by Phil Leggetter">Phil Leggetter</a></p>
                             <p>It’s been possible to instantly push information from a web server to a web browser for at least 10 years, but this technology has finally gone mainstream thanks to technologies like WebSockets and solutions like SignalR, socket.io, Faye and Pusher. In this sessions I'll cover the past, present and future of client/server communication technology, the realtime web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p>
                         </li>
                         <li>
-                            <h4>12:15 - 13:00 Talk TBC</h4>
+                            <h4>12:10 - 12:50 Talk TBC</h4>
                             <p><a href="/speakers#george-ornbo" title="Talk by George Ornbo" >George Ornbo</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>13:00 - 14:00 Lunch</h4>
+                            <h4>12:50 - 13:50 Lunch</h4>
                             <p>Well deserved break for lunch</p>
                         </li>
                         <li>
-                            <h4>14:00 - 14:45 Talk TBC</h4>
+                            <h4>13:50 - 14:30 Talk TBC</h4>
                             <p><a href="/speakers#joe-littlejohn" title="Talk by Joe Littlejohn">Joe Littlejohn</a> and <a href="/speakers#mark-godfrey" title="Talk by mark Godfrey">Mark Godfrey</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>14:55 - 3:40 From download to deployment with MongoDB</h4>
+                            <h4>14:40 - 15:20 From download to deployment with MongoDB</h4>
                             <p><a href="/speakers/david-mytton" title="From download to deployment with MongoDB by David Mytton" >David Mytton</a></p>
                             <p>This talk will take you on a tour of MongoDB from how to get started, development tips and things to avoid with schema design all the way through to considerations for production deployment. Suitable for beginners and more advanced users, it will help you not just get going but also understand how to start scaling a real deployment.</p>
                         </li>
                         <li>
-                            <h4>15:50 - 16:35 Go in the Real World</h4>
+                            <h4>15:30- 16:10 Go in the Real World</h4>
                             <p><a href="/speakers#peter-bourgon" title="Go in the Real World by Peter Bourgon" >Peter Bourgon</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>16:45 - 17:30 Talk TBC</h4>
-                            <p><a href="/speakers#cristiano-betta" title="Talk by Cristiano Betta" >Cristiano Betta</a></p>
+                            <h4>16:30 - 17:10 Talk TBC</h4>
+                            <p><a href="/speakers#martyn-davies" title="Talk by Martyn Davies" >Martyn Davies</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>17:30 - 18:00 Closing Comments</h4>
+                            <h4>17:20 - 18:00 Talk TBC</h4>
+                            <p><a href="/speakers#cristiano-betta" title="Talk by Cristiano Betta" >Cristiano Betta</a></p>
+                            <p>Talk TBC</p>
                         </li>
                     </ul>
                 </div>

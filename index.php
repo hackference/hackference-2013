@@ -108,6 +108,16 @@
 				</div>
 			</div>
 		</div>
+		<div class="section group speakers">			
+			<div class="col span_1_of_3 speaker">
+				<div style="position: relative">
+                    <a href='<?php echo $site_url; ?>speakers#martyn-davies'>
+                        <img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#martyn-davies'>Martyn Davies</a></div>
+                    </a>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<div id="sub">
