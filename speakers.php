@@ -208,7 +208,7 @@
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
-                        <a href="https://twitter.com/martyndavies" >Twitter</a>
+                        <a href="https://twitter.com/martynd" >Twitter</a>
                     </li>
                 </ul>
 			</div>
