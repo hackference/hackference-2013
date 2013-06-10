@@ -195,7 +195,7 @@
 				<div class="speakerPicture">
 					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
 				</div>
-				<div class="speakerName">Mark Godfrey</div>
+				<div class="speakerName">Martyn Davies</div>
 				<p>
                     Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.
                     <br/>
