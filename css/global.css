@@ -410,3 +410,16 @@ ul.schedule-list li a {
 
 .footerLeft {float: left;}
 .footerRight {float: right;}
+
+.social {
+	margin: 10px auto 0px;
+	font-family: Lato;
+}
+
+ul.social-bar {
+    text-align: center;
+}
+
+ul.social-bar li {
+    display: inline-block;
+}

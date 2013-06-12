@@ -29,6 +29,21 @@
 				<span class="line"></span>
 			</div>
 		</div>
+		<div class="section group social">
+			<div class="col span_10_of_10 ">
+                <ul class="social-bar" >
+                    <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://hackference.co.uk" data-via="hackferencebrum" data-hashtags="hackbrum2013">Tweet</a></li>
+                    <li><a href="https://twitter.com/hackferencebrum" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @hackferencebrum</a></li>
+                    <li><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhackference.co.uk&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=225858774119606" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 80px; height:21px;" allowTransparency="true"></iframe></li>
+                </ul>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+		</div>
+		<div class="section group">
+			<div class="col span_10_of_10 sub_heading">
+				<span class="line"></span>
+			</div>
+		</div>
 		<div class="section group footer">
 			<div class="col span_10_of_10 ">
 				<div class="footerLeft">Organised by <a href='http://elsmore.me' >Mike Elsmore</a> & <a href='http://www.winningmoves.com'>Winning Moves LTD.</a></div>
