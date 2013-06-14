@@ -174,7 +174,7 @@
 					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
 				</div>
 				<div class="speakerName">Joe Littlejohn</div>
-				<p>Coming soon...</p>
+				<p>A software guy with 10 years experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
 			</div>
 			
 		</div>

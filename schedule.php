@@ -44,9 +44,9 @@
                             <p>Well deserved break for lunch</p>
                         </li>
                         <li>
-                            <h4>13:50 - 14:30 Talk TBC</h4>
+                            <h4>13:50 - 14:30 Why Clojure?</h4>
                             <p><a href="/speakers#joe-littlejohn" title="Talk by Joe Littlejohn">Joe Littlejohn</a> and <a href="/speakers#mark-godfrey" title="Talk by mark Godfrey">Mark Godfrey</a></p>
-                            <p>Talk TBC</p>
+                            <p>In this introduction to Clojure, Joe and Mark will explain what makes Clojure a powerful and compelling language, why engineers at Nokia Entertainment now use it daily and love it, and why you should consider choosing Clojure for your next project.</p>
                         </li>
                         <li>
                             <h4>14:40 - 15:20 From download to deployment with MongoDB</h4>
