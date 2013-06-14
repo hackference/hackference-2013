@@ -66,16 +66,25 @@
 				<span class="line"></span>
 			</div>
 		</div>
-
 		<div class="section group sponsors">
+            <h4>Supported on site</h4>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.soundcloud.com/'><img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' /></a>
+				<a href='http://www.soundcloud.com/' title="Sound Cloud"><img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.twilio.com/'><img src='<?php echo $site_url; ?>img/sponsors/twilio.png' /></a>
+				<a href='http://www.twilio.com/' title="Twilio"><img src='<?php echo $site_url; ?>img/sponsors/twilio.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://joined.in/'><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
+				<a href='http://joined.in/' title="JoinedIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
+			</div>
+		</div>
+		<div class="section group sponsors">
+            <h4>A little help from our friends:</h4>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.sendgird.com/' title="SendGrid"><img src='<?php echo $site_url; ?>img/sponsors/sendgrid.png' /></a>
+			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.serverdensity.com/' title="Server Density"><img src='<?php echo $site_url; ?>img/sponsors/server-density.png' /></a>
 			</div>
 		</div>
 	</div>

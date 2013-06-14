@@ -68,11 +68,11 @@
                     </li>
                     <li>
                         <img src="http://www.serverdensity.com/favicon.ico" width="16px" />
-                        <a href="http://www.serverdensity.com/" >ServerDensity</a>
+                        <a href="http://www.serverdensity.com/" >Server Density</a>
                     </li>
                     <li>
                         <img src="http://serverdensity.wpengine.netdna-cdn.com/wp-content/themes/blog.sd/favicon.png" width="16px" />
-                        <a href="http://blog.serverdensity.com/" >ServerDensity Blog</a>
+                        <a href="http://blog.serverdensity.com/" >Server Density Blog</a>
                     </li>
                 </ul>
 			</div>
