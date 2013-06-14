@@ -175,6 +175,16 @@
 				</div>
 				<div class="speakerName">Joe Littlejohn</div>
 				<p>A software guy with 10 years experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
+                <ul class="speakLinks">
+                    <li>
+                        <img src="http://twitter.com/favicon.ico" width="16px"/>
+                        <a href="https://twitter.com/joelittlejohn" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="https://github.com/favicon.ico" width="16px"/>
+                        <a href="https://github.com/joelittlejohn" >Github</a>
+                    </li>
+                </ul>
 			</div>
 			
 		</div>
@@ -209,6 +219,10 @@
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
                         <a href="https://twitter.com/martynd" >Twitter</a>
+                    </li>
+                    <li>
+                        <img src="https://github.com/favicon.ico" width="16px"/>
+                        <a href="https://github.com/martyndavies" >Github</a>
                     </li>
                 </ul>
 			</div>
