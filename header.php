@@ -4,7 +4,7 @@
 
 	<!-- Meta -->
 	<meta charset="utf-8">
-	<title>Hackference - A web developers dream</title>
+	<title>Hackference - A developers dream</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
