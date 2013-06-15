@@ -25,9 +25,9 @@
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>10:20 - 11:00 Talk TBC</h4>
+                            <h4>10:20 - 11:00 Best Practice in API Design</h4>
                             <p><a href="/speakers#lorna-mitchell" >Lorna Mitchell</a></p>
-                            <p>Talk TBC</p>
+                            <p>Whether you're working with APIs as the backend to your mobile site or publishing them for others to consume, this session will show you how to write really excellent and useful services. We’ll cover selecting the right service type to use and how to design a flexible, maintainable system with an outward-facing API that will have your users easily utilising its features. There will be tips and tricks on helping minimise user confusion (and resulting bug reports) and how to achieve robust services and happy users who cite your application as their "must-have". Recommended for developers and architects from all technology backgrounds.</p>
                         </li>
                         <li>
                             <h4>11:20 - 12:00 Realtime Web Apps in the Wild</h4>
