@@ -59,7 +59,7 @@
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>16:30 - 17:10 Talk TBC</h4>
+                            <h4>16:30 - 17:10 Command All The Things</h4>
                             <p><a href="/speakers#martyn-davies" title="Talk by Martyn Davies" >Martyn Davies</a></p>
                             <p>Talk TBC</p>
                         </li>
