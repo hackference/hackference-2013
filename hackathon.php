@@ -75,7 +75,7 @@
 				<a href='http://www.twilio.com/' title="Twilio"><img src='<?php echo $site_url; ?>img/sponsors/twilio.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://joined.in/' title="JoinedIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
+				<a href='http://joind.in/' title="JoindIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='https://www.gosquared.com/' title="GoSquared"><img src='<?php echo $site_url; ?>img/sponsors/gosquared.png' /></a>
