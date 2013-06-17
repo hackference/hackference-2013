@@ -35,9 +35,9 @@
                             <p>It’s been possible to instantly push information from a web server to a web browser for at least 10 years, but this technology has finally gone mainstream thanks to technologies like WebSockets and solutions like SignalR, socket.io, Faye and Pusher. In this sessions I'll cover the past, present and future of client/server communication technology, the realtime web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p>
                         </li>
                         <li>
-                            <h4>12:10 - 12:50 Talk TBC</h4>
+                            <h4>12:10 - 12:50 Node.js - Embracing Chaos with JavaScript</h4>
                             <p><a href="/speakers#george-ornbo" title="Talk by George Ornbo" >George Ornbo</a></p>
-                            <p>Talk TBC</p>
+                            <p>The year 2013. The web has exploded. Fridges, bus stops and light bulbs are all connected to the web. Small networked quadcopters are flying around the globe dancing to dubstep. Even your mum has a super powerful smartphone in her pocket. In this introductory talk learn what this means for programming and how you can use your JavaScript superpowers to create modern, networked applications with Node.js.</p>
                         </li>
                         <li>
                             <h4>12:50 - 13:50 Lunch</h4>
