@@ -11,3 +11,9 @@ $page = ($path_array[0]!='')?$path_array[0]:'index';
 
 // Inclusion Path
 $file_path = ((isset($_GET['file_path']))?$_GET['file_path']:'index').'.php';
+
+// Bootstrap KILL
+if($file_path=='bootstrap.php')
+{
+    $file_path = '404.php';
+}
