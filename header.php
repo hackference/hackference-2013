@@ -4,7 +4,7 @@
 
 	<!-- Meta -->
 	<meta charset="utf-8">
-	<title>Hackference - A developers dream</title>
+	<title>Hackference - A developer's dream</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/normalize.css" />
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/gridpak.css" />
 	<link rel="stylesheet" href="<?php echo $site_url; ?>css/global.css" />
-    
+
     <!-- JS -->
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" ></script>
     <script type="text/javascript" src="<?php echo $site_url; ?>js/main.js" ></script>

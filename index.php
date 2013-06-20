@@ -16,7 +16,7 @@
 		<div class="section group">
 			<div class="col span_10_of_10">
 				<div class="paras">
-					<p>A first-of-its-kind event in Birmingham starts on August 30th, collecting 300 developers to look into different technologies, languages and best practices available in the development world. The team at Hackference will be bringing you internationally renowned developers to share their knowledge on a wide range of subjects covering different areas of coding and development.</p>
+					<p>A first-of-its-kind event in Birmingham starts on August 30th, collecting 300 developers to look into different technologies, languages and best practices available in the development world. The team at Hackference will be bringing you internationally-renowned developers to share their knowledge on a wide range of subjects covering different areas of coding and development.</p>
 				</div>
 			</div>
 		</div>
@@ -53,7 +53,7 @@
                         <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#david-mytton'>David Mytton</a></div>
                     </a>
 				</div>
-			</div>			
+			</div>
 		</div>
 		<div class="section group speakers">
 			<div class="col span_1_of_3 speaker">
@@ -72,7 +72,7 @@
                     </a>
 				</div>
 			</div>
-			
+
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
                     <a href='<?php echo $site_url; ?>speakers#phil-leggetter'>
@@ -82,7 +82,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="section group speakers">			
+		<div class="section group speakers">
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
                     <a href='<?php echo $site_url; ?>speakers#george-ornbo'>
@@ -108,7 +108,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="section group speakers">			
+		<div class="section group speakers">
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
                     <a href='<?php echo $site_url; ?>speakers#martyn-davies'>
@@ -127,10 +127,10 @@
 				<span class="line"></span>
 			</div>
 		</div>
-		<div class="section group">			
+		<div class="section group">
 			<div class="col span_10_of_10">
 				<div class="paras_small">
-					<p>After the conference a whole weekend of coding is afoot (August 31th and September 1st). That means 100 developers gathering together to build some great applications on different platforms in under 36 hours. With access to the knowledge gained at the conference combined with the <a href="<?php echo $site_url; ?>hackathon#partners" title="API and SDK Partners" >APIs and SDKs of the hackathon partners</a>, who will walk away with the prizes?</p>
+					<p>After the conference a whole weekend of coding is afoot (August 31st and September 1st). That means 100 developers gathering together to build some great applications on different platforms in under 36 hours. With access to the knowledge gained at the conference combined with the <a href="<?php echo $site_url; ?>hackathon#partners" title="API and SDK Partners" >APIs and SDKs of the hackathon partners</a>, who will walk away with the prizes?</p>
 				</div>
 			</div>
 		</div>
