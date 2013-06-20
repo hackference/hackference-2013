@@ -6,7 +6,7 @@
 			</div>
 		</div>
 
-		<div class="section group">		
+		<div class="section group">
 
 			<div class="col span_10_of_10">
                 <div class="col span_10_of_10 sub_heading">
@@ -32,7 +32,7 @@
                         <li>
                             <h4>11:20 - 12:00 Realtime Web Apps in the Wild</h4>
                             <p><a href="/speakers#phil-leggetter" title="Realtime Web Apps in the Wild by Phil Leggetter">Phil Leggetter</a></p>
-                            <p>It’s been possible to instantly push information from a web server to a web browser for at least 10 years, but this technology has finally gone mainstream thanks to technologies like WebSockets and solutions like SignalR, socket.io, Faye and Pusher. In this sessions I'll cover the past, present and future of client/server communication technology, the realtime web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p>
+                            <p>It has been possible to instantly push information from a web server to a web browser for at least 10 years, but this technology has finally gone mainstream thanks to technologies like WebSockets and solutions like SignalR, socket.io, Faye and Pusher. In this sessions I'll cover the past, present and future of client/server communication technology, the realtime web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p>
                         </li>
                         <li>
                             <h4>12:10 - 12:50 Node.js - Embracing Chaos with JavaScript</h4>
@@ -41,7 +41,7 @@
                         </li>
                         <li>
                             <h4>12:50 - 13:50 Lunch</h4>
-                            <p>Well deserved break for lunch</p>
+                            <p>Well-deserved break for lunch</p>
                         </li>
                         <li>
                             <h4>13:50 - 14:30 Why Clojure?</h4>
@@ -75,16 +75,16 @@
 		</div>
 
 		<div class="section group">
-            
+
             <div class="col span_10_of_10 sub_heading">
                 <h3>Hackathon</h3>
                 <span class="line"></span>
             </div>
-            
+
             <div class="col span_10_of_10 sub_heading">
-                
+
                 <div class="col span_5_of_10 speakerSingle">
-                    
+
                     <!--<div class="col span_10_of_10 sub_heading">-->
                         <h3>Sat 31st August</h3>
                         <ul class="schedule-list">
@@ -98,7 +98,7 @@
                             </li>
                             <li>
                                 <h4>12:00 - 19:00 Hacking Starts</h4>
-                                <p>Get together, makes teams and discuss what your going to hack. Then get hacking!</p>
+                                <p>Get together, make teams and discuss what you're going to hack. Then get hacking!</p>
                             </li>
                             <li>
                                 <h4>19:00 - 20:00 Evening Meal</h4>
@@ -111,11 +111,11 @@
                             </li>
                         </ul>
                     <!--</div>-->
-                    
+
                 </div>
 
                 <div class="col span_5_of_10 speakerSingle">
-                    
+
                     <div class="col span_10_of_10 sub_heading">
                         <h3>Sun 1st September</h3>
                         <ul class="schedule-list">
@@ -129,7 +129,7 @@
                             </li>
                             <li>
                                 <h4>13:00 - 14:00 Lunch</h4>
-                                <p>Enjoy a meal and start prepping that all important presentation.</p>
+                                <p>Enjoy a meal and start prepping that all-important presentation.</p>
                             </li>
                             <li>
                                 <h4>14:00 - 15:00 Submission and Presentation Writing</h4>
@@ -141,11 +141,11 @@
                             </li>
                         </ul>
                     </div>
-                    
+
                 </div>
-                
+
             </div>
-			
+
 		</div>
-		
+
 	</div>

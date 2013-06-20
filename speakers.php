@@ -6,7 +6,7 @@
 			</div>
 		</div>
 
-		<div class="section group">		
+		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="syd-lawrence" ></a>
@@ -14,7 +14,7 @@
 					<img src='<?php echo $site_url; ?>img/speakers/syd-lawrence.png' />
 				</div>
 				<div class="speakerName">Syd Lawrence</div>
-				<p>Syd Lawrence is cofounder of We Make Awesome Sh, and is a developer evangelist at Twilio. He's a developer who is interested in too much tech to be particularly good at any of them. He makes stuff for fun, for profit, for lols. He's made things for companies such as Coca Cola and Microsoft, and musicians such as the rolling stones, swedish house mafia, and kylie minogue.</p>
+				<p>Syd Lawrence is cofounder of We Make Awesome Sh, and is a developer evangelist at Twilio. He's a developer who is interested in too much tech to be particularly good at any of them. He makes stuff for fun, for profit, for lols. He's made things for companies such as Coca Cola and Microsoft, and musicians such as The Rolling Stones, Swedish House Mafia, and Kylie Minogue.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
@@ -52,7 +52,7 @@
 
 		</div>
 
-		<div class="section group">		
+		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="david-mytton" ></a>
@@ -83,7 +83,7 @@
 					<img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
 				</div>
 				<div class="speakerName">Peter Bourgon</div>
-				<p>I'm a distributed systems developer working on search and discovery problems for SoundCloud.</p>
+				<p>Peter Bourgon is a distributed systems developer working on search and discovery problems for SoundCloud.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
@@ -98,10 +98,10 @@
                     </li>
                 </ul>
 			</div>
-			
+
 		</div>
 
-		<div class="section group">		
+		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="phil-leggetter" ></a>
@@ -109,7 +109,7 @@
 					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
 				</div>
 				<div class="speakerName">Phil Leggetter</div>
-				<p>Phil Leggetter is a Developer Evangelist at Pusher, a real-time web hosted API for quickly, easily and securely adding scalable real-time functionality to web and mobile apps . He’s been developing and using real-time web technologies for over 10 years. His focus is to help people use these technologies to build the next generation of interactive and engaging real-time web applications.</p>
+				<p>Phil Leggetter is a Developer Evangelist at Pusher, a real-time web hosted API for quickly, easily and securely adding scalable real-time functionality to web and mobile apps. He’s been developing and using real-time web technologies for over 10 years. His focus is to help people use these technologies to build the next generation of interactive and engaging real-time web applications.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
@@ -128,7 +128,7 @@
 					<img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
 				</div>
 				<div class="speakerName">Cristiano Betta</div>
-				<p>Cristiano is a Developer Evangelist at PayPal and event organiser at Geeks of London. He loves to code in Ruby, Rails and Javascript. He appreciates web standards, continuous integration, distributed version control systems, test driven development, and good coffee.</p>
+				<p>Cristiano is a Developer Evangelist at PayPal and event organiser at Geeks of London. He loves to code in Ruby, Rails and JavaScript. He appreciates web standards, continuous integration, distributed version control systems, test driven development, and good coffee.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
@@ -144,10 +144,10 @@
                     </li>
                 </ul>
 			</div>
-			
+
 		</div>
 
-		<div class="section group">	
+		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="george-ornbo" ></a>
@@ -174,7 +174,7 @@
 					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
 				</div>
 				<div class="speakerName">Joe Littlejohn</div>
-				<p>A software guy with 10 years experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
+				<p>A software guy with 10 years' experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
@@ -186,10 +186,10 @@
                     </li>
                 </ul>
 			</div>
-			
+
 		</div>
 
-		<div class="section group">	
+		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="mark-godfrey" ></a>
@@ -209,7 +209,7 @@
 				<p>
                     Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.
                     <br/>
-                    An experienced events organiser, Martyn has organises Music Hack Day's in London and Cannes each year as well as co-founding SportsTech Hack Day and advising other companies on how to relay their API message to developers through events.
+                    An experienced events organiser, Martyn has organised Music Hack Days in London and Cannes each year as well as co-founding SportsTech Hack Day and advising other companies on how to relay their API message to developers through events.
                     <br/>
                     Martyn has been working in music, broadcasting and technology for over 14 years and has held several exciting roles at the BBC and Universal Music Group.
                     <br/>
@@ -226,8 +226,8 @@
                     </li>
                 </ul>
 			</div>
-            
+
 		</div>
-		
-		
+
+
 	</div>
