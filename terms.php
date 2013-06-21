@@ -105,7 +105,20 @@
         </div>
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h2>7. General; Miscellaneous</h2>
+				<h2>7. Equipment</h2>
+				<span class="line"></span>
+			</div>
+		</div>
+		<div class="section group">
+			<div class="col span_10_of_10">
+                <div class="paras_small" >
+                    <p>Personal equipment and technology is the responsibility of the owner; Mike Elsmore and Winning Moves LTD do not accept responsibility for damages or loss.</p>
+                </div>
+			</div>
+        </div>
+		<div class="section group">
+			<div class="col span_10_of_10 sub_heading">
+				<h2>8. General; Miscellaneous</h2>
 				<span class="line"></span>
 			</div>
 		</div>
