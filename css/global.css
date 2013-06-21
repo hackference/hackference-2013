@@ -253,6 +253,12 @@ p.left-align {
 .paras p a:hover, .paras_small p a:hover {
     border-bottom: 1px dotted #1a1c1f;
 }
+.paras_small ul li {
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 150%;
+}
 
 .buy-button {
     display: inline-block;
