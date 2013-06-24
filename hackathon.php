@@ -45,14 +45,14 @@
 	<div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h3>Challanges and Prizes</h3>
+				<h3>Challenges and Prizes</h3>
 				<span class="line"></span>
 			</div>
 		</div>
 		<div class="section group">			
 			<div class="col span_10_of_10">
 				<div class="paras_small">
-					<p>The challanges and prizes will be announced closer to event.</p>
+					<p>The challenges and prizes will be announced closer to event.</p>
 				</div>
 			</div>
 		</div>
