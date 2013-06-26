@@ -50,7 +50,7 @@
                         </li>
                         <li>
                             <h4>14:40 - 15:20 From download to deployment with MongoDB</h4>
-                            <p><a href="/speakers/david-mytton" title="From download to deployment with MongoDB by David Mytton" >David Mytton</a></p>
+                            <p><a href="/speakers#david-mytton" title="From download to deployment with MongoDB by David Mytton" >David Mytton</a></p>
                             <p>This talk will take you on a tour of MongoDB from how to get started, development tips and things to avoid with schema design all the way through to considerations for production deployment. Suitable for beginners and more advanced users, it will help you not just get going but also understand how to start scaling a real deployment.</p>
                         </li>
                         <li>

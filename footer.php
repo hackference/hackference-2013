@@ -21,6 +21,14 @@
 				<a href='http://developer.paypal.com/'><img src='<?php echo $site_url; ?>img/sponsors/paypal_developer.png' /></a>
 			</div>
 		</div>
+		<div class="section group sponsors">
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.intel.com/'><img src='<?php echo $site_url; ?>img/sponsors/intel.png' /></a>
+			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.harveynash.com/'><img src='<?php echo $site_url; ?>img/sponsors/harvey-nash.png' /></a>
+			</div>
+		</div>
 	</div>
 
     <footer id="sub">
