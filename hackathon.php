@@ -91,6 +91,9 @@
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.heroku.com/' title="Heroku"><img src='<?php echo $site_url; ?>img/sponsors/heroku.png' /></a>
 			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://cloudfoundry.com/' title="Cloud Foundry"><img src='<?php echo $site_url; ?>img/sponsors/cloud-foundry.png' /></a>
+			</div>
 		</div>
 		<div class="section group sponsors">
             <h4>A little help from our friends:</h4>
