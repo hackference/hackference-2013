@@ -20,21 +20,25 @@
                             <p>Doors open for people to come in, grab coffee and register for the day</p>
                         </li>
                         <li>
+                            <a name="opening-keynote" ></a>
                             <h4>09:30 - 10:10 Opening Keynote</h4>
                             <p><a href="/speakers#syd-lawrence" title="Opening Keynote by Syd Lawrence" >Syd Lawrence</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
+                            <a name="best-practice-in-api-design" ></a>
                             <h4>10:20 - 11:00 Best Practice in API Design</h4>
                             <p><a href="/speakers#lorna-mitchell" >Lorna Mitchell</a></p>
                             <p>Whether you're working with APIs as the backend to your mobile site or publishing them for others to consume, this session will show you how to write really excellent and useful services. We’ll cover selecting the right service type to use and how to design a flexible, maintainable system with an outward-facing API that will have your users easily utilising its features. There will be tips and tricks on helping minimise user confusion (and resulting bug reports) and how to achieve robust services and happy users who cite your application as their "must-have". Recommended for developers and architects from all technology backgrounds.</p>
                         </li>
                         <li>
+                            <a name="realtime-web-apps-in-the-wild" ></a>
                             <h4>11:20 - 12:00 Realtime Web Apps in the Wild</h4>
                             <p><a href="/speakers#phil-leggetter" title="Realtime Web Apps in the Wild by Phil Leggetter">Phil Leggetter</a></p>
                             <p>It has been possible to instantly push information from a web server to a web browser for at least 10 years, but this technology has finally gone mainstream thanks to technologies like WebSockets and solutions like SignalR, socket.io, Faye and Pusher. In this sessions I'll cover the past, present and future of client/server communication technology, the realtime web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p>
                         </li>
                         <li>
+                            <a name="nodejs-embracing-chaos-with-javascript" ></a>
                             <h4>12:10 - 12:50 Node.js - Embracing Chaos with JavaScript</h4>
                             <p><a href="/speakers#george-ornbo" title="Talk by George Ornbo" >George Ornbo</a></p>
                             <p>The year 2013. The web has exploded. Fridges, bus stops and light bulbs are all connected to the web. Small networked quadcopters are flying around the globe dancing to dubstep. Even your mum has a super powerful smartphone in her pocket. In this introductory talk learn what this means for programming and how you can use your JavaScript superpowers to create modern, networked applications with Node.js.</p>
@@ -44,29 +48,34 @@
                             <p>Well-deserved break for lunch</p>
                         </li>
                         <li>
+                            <a name="why-clojure" ></a>
                             <h4>13:50 - 14:30 Why Clojure?</h4>
                             <p><a href="/speakers#joe-littlejohn" title="Talk by Joe Littlejohn">Joe Littlejohn</a> and <a href="/speakers#mark-godfrey" title="Talk by mark Godfrey">Mark Godfrey</a></p>
                             <p>In this introduction to Clojure, Joe and Mark will explain what makes Clojure a powerful and compelling language, why engineers at Nokia Entertainment now use it daily and love it, and why you should consider choosing Clojure for your next project.</p>
                         </li>
                         <li>
+                            <a name="from-download-to-deployment-with-mongodb" ></a>
                             <h4>14:40 - 15:20 From download to deployment with MongoDB</h4>
                             <p><a href="/speakers#david-mytton" title="From download to deployment with MongoDB by David Mytton" >David Mytton</a></p>
                             <p>This talk will take you on a tour of MongoDB from how to get started, development tips and things to avoid with schema design all the way through to considerations for production deployment. Suitable for beginners and more advanced users, it will help you not just get going but also understand how to start scaling a real deployment.</p>
                         </li>
                         <li>
+                            <a name="go-in-the-real-world" ></a>
                             <h4>15:30- 16:10 Go in the Real World</h4>
                             <p><a href="/speakers#peter-bourgon" title="Go in the Real World by Peter Bourgon" >Peter Bourgon</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
+                            <a name="command-all-the-things" ></a>
                             <h4>16:30 - 17:10 Command All The Things</h4>
                             <p><a href="/speakers#martyn-davies" title="Talk by Martyn Davies" >Martyn Davies</a></p>
                             <p>Talk TBC</p>
                         </li>
                         <li>
-                            <h4>17:20 - 18:00 Talk TBC</h4>
+                            <a name="the-state-of-packaged-web-apps" ></a>
+                            <h4>17:20 - 18:00 The state of packaged web apps</h4>
                             <p><a href="/speakers#cristiano-betta" title="Talk by Cristiano Betta" >Cristiano Betta</a></p>
-                            <p>Talk TBC</p>
+                            <p>It has never been easier to package your web apps in one way or another but why would we need to. Companies like Google, Mozilla and Adobe provide us ways to wrap HTML, JS and CSS as browser extensions or full on mobile/desktop apps. Cristiano highlights the divergence of technologies being used and looks into the future convergence of the web standards that power these apps. All of this to answer one essential question: is there a one-size-fits-all solution?</p>
                         </li>
                     </ul>
                 </div>
