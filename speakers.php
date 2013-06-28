@@ -109,7 +109,7 @@
 					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
 				</div>
 				<div class="speakerName">Phil Leggetter</div>
-				<p>Phil Leggetter is a Developer Evangelist at Pusher, a real-time web hosted API for quickly, easily and securely adding scalable real-time functionality to web and mobile apps. He’s been developing and using real-time web technologies for over 10 years. His focus is to help people use these technologies to build the next generation of interactive and engaging real-time web applications.</p>
+				<p>Phil <a href="https://twitter.com/leggetter" >@leggetter</a> is a Developer Evangelist at <a href="http://www.caplin.com" >Caplin Systems</a> where he's leading the project to open source <a href="http://bladerunnerjs.org" >BladeRunnerJS</a>. He's the co-author of <a href="http://j.mp/realtime-web-apps-uk" >Realtime Web Apps: With HTML5 WebSocket, PHP, and jQuery</a> and writes articles for Smashing Magazine, .net magazine, Programmable Web, on <a href="http://www.leggetter.co.uk" >his own blog</a> and anywhere else he gets an opportunity to create content. Phil's passions include developer experience, customer service are helping people realise the benefits of realtime web technologies, and then use them to build the next generation of interactive and engaging web apps.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>

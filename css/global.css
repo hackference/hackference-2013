@@ -358,6 +358,18 @@ p.left-align {
 	text-align: center;
 }
 
+.speakerSingle p a {
+    color: #42454c;
+    font-family: Lato;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.speakerSingle p a:hover {
+    border-bottom: 1px dotted #1a1c1f;
+}
+
 .speakLinks {
     text-align: center;
 }
