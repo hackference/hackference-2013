@@ -171,7 +171,7 @@
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="joe-littlejohn" ></a>
 				<div class="speakerPicture">
-					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+					<img src='<?php echo $site_url; ?>img/speakers/joe-littlejohn.jpg' />
 				</div>
 				<div class="speakerName">Joe Littlejohn</div>
 				<p>A software guy with 10 years' experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
