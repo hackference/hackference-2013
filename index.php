@@ -94,7 +94,7 @@
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
                     <a href='<?php echo $site_url; ?>speakers#joe-littlejohn'>
-                        <img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+                        <img src='<?php echo $site_url; ?>img/speakers/joe-littlejohn.jpg' />
                         <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#joe-littlejohn'>Joe Littlejohn</a></div>
                     </a>
 				</div>
