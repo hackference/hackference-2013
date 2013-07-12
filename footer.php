@@ -28,6 +28,12 @@
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.harveynash.com/'><img src='<?php echo $site_url; ?>img/sponsors/harvey-nash.png' /></a>
 			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://launch48.com/'><img src='<?php echo $site_url; ?>img/sponsors/launch48.png' /></a>
+			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.oxygenaccelerator.com/'><img src='<?php echo $site_url; ?>img/sponsors/oxygen-accelerator.png' /></a>
+			</div>
 		</div>
 	</div>
 
