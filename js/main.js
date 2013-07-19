@@ -13,4 +13,12 @@ $(document).ready(function(){
             $('ul.topNav').slideUp();
         }
     });
+    /**
+     * MixPanel Code
+     */
+    /* Speaker Profile */
+    $('.speaker-profile').click(function(){
+        var speakerName = $(this).html();
+        mixpanel.track("View "+speakerName+" Profile");
+    });
 });
