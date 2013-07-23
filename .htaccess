@@ -12,5 +12,5 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f 
 
 # Catch attempt
-RewriteRule ^(.*)$										bootstrap.php?file_path=$1
+RewriteRule ^(.*)$										bootstrap.php?file_path=$1 [NC,L,QSA]
 RewriteRule ^$										     bootstrap.php?file_path=index
