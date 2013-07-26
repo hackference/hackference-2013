@@ -25,7 +25,7 @@
 	<div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h3>Fazeley Studios</h3>
+				<h3>Conference: Fazeley Studios</h3>
 				<span class="line"></span>
 			</div>
 		</div>
@@ -46,7 +46,7 @@
 				</div>
 			</div>
 			<div class="col span_4_of_10">
-                <iframe width="100%" height="250px0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Fazeley+Studios,+Fazeley+Street,+Birmingham&amp;aq=3&amp;oq=fazele&amp;sll=52.57635,-2.329102&amp;sspn=7.240636,25.686035&amp;ie=UTF8&amp;hq=Fazeley+Studios,&amp;hnear=Fazeley+St,+Birmingham,+United+Kingdom&amp;t=m&amp;ll=52.477749,-1.881709&amp;spn=0.001307,0.002146&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Fazeley+Studios,+Fazeley+Street,+Birmingham&amp;aq=3&amp;oq=fazele&amp;sll=52.57635,-2.329102&amp;sspn=7.240636,25.686035&amp;ie=UTF8&amp;hq=Fazeley+Studios,&amp;hnear=Fazeley+St,+Birmingham,+United+Kingdom&amp;t=m&amp;ll=52.477749,-1.881709&amp;spn=0.001307,0.002146&amp;z=16&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+                <iframe width="100%" height="250px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Fazeley+Studios,+Fazeley+Street,+Birmingham&amp;aq=3&amp;oq=fazele&amp;sll=52.57635,-2.329102&amp;sspn=7.240636,25.686035&amp;ie=UTF8&amp;hq=Fazeley+Studios,&amp;hnear=Fazeley+St,+Birmingham,+United+Kingdom&amp;t=m&amp;ll=52.477749,-1.881709&amp;spn=0.001307,0.002146&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Fazeley+Studios,+Fazeley+Street,+Birmingham&amp;aq=3&amp;oq=fazele&amp;sll=52.57635,-2.329102&amp;sspn=7.240636,25.686035&amp;ie=UTF8&amp;hq=Fazeley+Studios,&amp;hnear=Fazeley+St,+Birmingham,+United+Kingdom&amp;t=m&amp;ll=52.477749,-1.881709&amp;spn=0.001307,0.002146&amp;z=16&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 			</div>
 		</div>
 	</div>
@@ -54,7 +54,7 @@
 	<div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h3>Boxxed</h3>
+				<h3>Hackathon: Boxxed</h3>
 				<span class="line"></span>
 			</div>
 		</div>

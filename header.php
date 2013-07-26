@@ -31,7 +31,7 @@ mixpanel.init("7cf987c65e643194eadf4c8e0024c708");</script><!-- end Mixpanel -->
 	{
 		?>
 		<div id="flashMessage">
-			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65</a></strong>
+			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65</a></strong> - Ends 9th August
 		</div>
 		<?php
 	}
