@@ -111,6 +111,12 @@
 }
 /* Tablet */
 @media all and ( max-width:768px) {
+    #flashMessage .buy-button {
+        display: block;
+        margin: 0 auto;
+    }
+}
+@media all and ( max-width:768px) {
     .span_10_of_10, .span_9_of_10, .span_8_of_10, .span_7_of_10, .span_6_of_10, .span_5_of_10, .span_4_of_10 {
         width: 100%; 
         float: none;

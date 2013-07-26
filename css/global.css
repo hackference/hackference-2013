@@ -77,6 +77,7 @@ h4 small {
 	font-size: 20px;
 	line-height: 35px;
 	color: #FFF;
+    z-index: 999;
 }
 
 #flashMessage strong a {
@@ -277,6 +278,7 @@ p.left-align {
     border:0;
 }
 .buy-button a {
+    text-decoration: none;
     color: #00A651 !important;
 }
 .buy-button a:hover {

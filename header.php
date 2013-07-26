@@ -30,8 +30,10 @@ mixpanel.init("7cf987c65e643194eadf4c8e0024c708");</script><!-- end Mixpanel -->
 	if ($early_bird == true)
 	{
 		?>
+        <div id="flashMessageAnchor" ></div>
 		<div id="flashMessage">
-			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65</a></strong> - Ends 9th August
+			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65 saving £35</a></strong> - Ends 9th August
+            <span class="buy-button"><a href="/buy">Buy Tickets</a></span>
 		</div>
 		<?php
 	}
