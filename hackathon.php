@@ -99,6 +99,9 @@
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://nodecopter.com/' title="Nodecopter"><img src='<?php echo $site_url; ?>img/sponsors/nodecopter.png' /></a>
 			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://developer.paypal.com/' title="PayPal|Developer" ><img src='<?php echo $site_url; ?>img/sponsors/paypal_developer.png' /></a>
+			</div>
 		</div>
 		<div class="section group sponsors">
             <h4>A little help from our friends:</h4>
