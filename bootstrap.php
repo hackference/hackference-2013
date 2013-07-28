@@ -1,5 +1,15 @@
 <?php
 
+// Session
+session_start();
+
+// Discount shizzle
+if(isset($_REQUEST['discount']))
+{
+    $_SESSION['discount'] = $_REQUEST['discount'];
+    
+}
+
 // Include config
 include("config.php");
 
