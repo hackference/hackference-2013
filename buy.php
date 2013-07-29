@@ -31,6 +31,9 @@
                     <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Sell Tickets Online</a> <span style="color:#ddd;">through</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk?ref=etckt">Eventbrite</a></div>
                 </div>
 				<!-- EventBrite JS Block -->
+				<div class="paras_small">
+                    <p>We are also making group discounts available to companies or organisations.</p>
+                </div>
 			</div>
 		</div>
 	</div>
