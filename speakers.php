@@ -14,6 +14,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/syd-lawrence.png' />
 				</div>
 				<div class="speakerName">Syd Lawrence</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#opening-keynote" >Opening Keynote</a>
+                    </li>
+                </ul>
 				<p>Syd Lawrence is cofounder of We Make Awesome Sh, and is a developer evangelist at Twilio. He's a developer who is interested in too much tech to be particularly good at any of them. He makes stuff for fun, for profit, for lols. He's made things for companies such as Coca Cola and Microsoft, and musicians such as The Rolling Stones, Swedish House Mafia, and Kylie Minogue.</p>
                 <ul class="speakLinks">
                     <li>
@@ -37,6 +42,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/lorna-mitchell.jpg' />
 				</div>
 				<div class="speakerName">Lorna Mitchell</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#best-practice-in-api-design" >Best Practice in API Design</a>
+                    </li>
+                </ul>
 				<p>Lorna is an independent web development consultant, author and trainer based in Leeds, UK. Her books include "PHP Master" and "PHP Web APIs", and she is also published regularly at a number of outlets including netmagazine and of course her own blog lornajane.net. Lorna has spoken at technical events around the world on technical topics around PHP and APIs, regularly delivers technical training sessions and is also active as a mentor with PHPWomen.org. She is an experienced event organiser and speaker, having hosted the Dutch PHP Conference and co-founded the PHP North West conference and user group. In her spare time, she leads the joind.in open source project, which provides a platform for real-time, public feedback at community events.</p>
                 <ul class="speakLinks">
                     <li>
@@ -60,6 +70,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
 				</div>
 				<div class="speakerName">David Mytton</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#from-download-to-deployment-with-mongodb" >From download to deployment with MongoDB</a>
+                    </li>
+                </ul>
 				<p>David Mytton is the founder of server monitoring tool, Server Density, where he has been using MongoDB in production for almost 4 years. He has been programming in PHP and Python for over 10 years, regularly speaks about MongoDB (including starting the London MongoDB User Group), co-founded the Open Rights Group and can often be found cycling in London or drinking tea in Japan.</p>
                 <ul class="speakLinks">
                     <li>
@@ -83,6 +98,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/peter-bourgon.jpg' />
 				</div>
 				<div class="speakerName">Peter Bourgon</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#go-in-the-real-world" >Go in the Real World</a>
+                    </li>
+                </ul>
 				<p>Peter Bourgon is a distributed systems developer working on search and discovery problems for SoundCloud.</p>
                 <ul class="speakLinks">
                     <li>
@@ -109,6 +129,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/phil-leggetter.jpg' />
 				</div>
 				<div class="speakerName">Phil Leggetter</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#realtime-web-apps-in-the-wild" >Realtime Web Apps in the Wild</a>
+                    </li>
+                </ul>
 				<p>Phil <a href="https://twitter.com/leggetter" >@leggetter</a> is a Developer Evangelist at <a href="http://www.caplin.com" >Caplin Systems</a> where he's leading the project to open source <a href="http://bladerunnerjs.org" >BladeRunnerJS</a>. He's the co-author of <a href="http://j.mp/realtime-web-apps-uk" >Realtime Web Apps: With HTML5 WebSocket, PHP, and jQuery</a> and writes articles for Smashing Magazine, .net magazine, Programmable Web, on <a href="http://www.leggetter.co.uk" >his own blog</a> and anywhere else he gets an opportunity to create content. Phil's passions include developer experience, customer service are helping people realise the benefits of realtime web technologies, and then use them to build the next generation of interactive and engaging web apps.</p>
                 <ul class="speakLinks">
                     <li>
@@ -128,6 +153,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/cristiano-betta.jpg' />
 				</div>
 				<div class="speakerName">Cristiano Betta</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#the-state-of-packaged-web-apps" >The state of packaged web apps</a>
+                    </li>
+                </ul>
 				<p>Cristiano is a Developer Evangelist at PayPal and event organiser at Geeks of London. He loves to code in Ruby, Rails and JavaScript. He appreciates web standards, continuous integration, distributed version control systems, test driven development, and good coffee.</p>
                 <ul class="speakLinks">
                     <li>
@@ -155,6 +185,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/george-ornbo.jpg' />
 				</div>
 				<div class="speakerName">George Ornbo</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#nodejs-embracing-chaos-with-javascript" >Node.js - Embracing Chaos with JavaScript</a>
+                    </li>
+                </ul>
 				<p>George is a full-stack JavaScript developer. He is the author of "Sams Teach Yourself Node.js in 24 hours" and is currently working on an online gambling startup.</p>
                 <ul class="speakLinks">
                     <li>
@@ -174,6 +209,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/joe-littlejohn.jpg' />
 				</div>
 				<div class="speakerName">Joe Littlejohn</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#why-clojure" >Why Clojure?</a>
+                    </li>
+                </ul>
 				<p>A software guy with 10 years' experience in the industry. Currently a principal engineer at Nokia Entertainment, Joe has been a citizen of the Land of Lisp (thanks to Clojure) for the last 18 months. He also helps organise Bristol's monthly functional programming meet-up BrisFunctional.</p>
                 <ul class="speakLinks">
                     <li>
@@ -197,6 +237,11 @@
 					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
 				</div>
 				<div class="speakerName">Mark Godfrey</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#why-clojure" >Why Clojure?</a>
+                    </li>
+                </ul>
 				<p>Coming soon...</p>
 			</div>
 
@@ -206,6 +251,11 @@
 					<img src='<?php echo $site_url; ?>img/speakers/martyn-davies.jpg' />
 				</div>
 				<div class="speakerName">Martyn Davies</div>
+                <ul class="speakLinks">
+                    <li>
+                        <a href="<?php echo $site_url; ?>schedule#command-all-the-things" >Command All The Things</a>
+                    </li>
+                </ul>
 				<p>
                     Martyn Davies is a creative developer based in London and is currently works as a Developer Evangelist at SendGrid. You’ll find him presenting, demoing, hacking and chatting at hack days, conferences and meetups around the world on a regular basis.
                     <br/>

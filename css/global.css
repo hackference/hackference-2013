@@ -374,6 +374,7 @@ p.left-align {
 
 .speakLinks {
     text-align: center;
+    padding: 0px;
 }
 
 .speakLinks li {
