@@ -23,7 +23,7 @@
 		</div>
 		<div class="section group sponsors">
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.intel.com/'><img src='<?php echo $site_url; ?>img/sponsors/intel.png' /></a>
+				<a href='http://www.sendgrid.com/' title="SendGrid"><img src='<?php echo $site_url; ?>img/sponsors/sendgrid.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.harveynash.com/'><img src='<?php echo $site_url; ?>img/sponsors/harvey-nash.png' /></a>
@@ -33,6 +33,11 @@
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.oxygenaccelerator.com/'><img src='<?php echo $site_url; ?>img/sponsors/oxygen-accelerator.png' /></a>
+			</div>
+		</div>
+		<div class="section group sponsors">
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.10gen.com/' title="10gen"><img src='<?php echo $site_url; ?>img/sponsors/10gen.png' /></a>
 			</div>
 		</div>
 	</div>
