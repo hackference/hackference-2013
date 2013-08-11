@@ -27,12 +27,12 @@ mixpanel.init("7cf987c65e643194eadf4c8e0024c708");</script><!-- end Mixpanel -->
 
 	<?php
 
-	if ($early_bird == true)
+	if ($early_bird == false)
 	{
 		?>
         <div id="flashMessageAnchor" ></div>
 		<div id="flashMessage">
-			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65 saving £35</a></strong> - Ends 9th August
+			Get in quick - <strong><a href='<?php echo $site_url; ?>buy'>Early bird tickets only £65 (saving 35%)</a></strong> - Ends 9th August
             <span class="buy-button"><a href="/buy">Buy Tickets</a></span>
 		</div>
 		<?php
@@ -58,6 +58,10 @@ mixpanel.init("7cf987c65e643194eadf4c8e0024c708");</script><!-- end Mixpanel -->
 					<li><a href='<?php echo $site_url; ?>hackathon' <?php if ($page == "hackathon") { echo "class='active'"; } ?>>Hackathon</a></li>
 					<li><a href='<?php echo $site_url; ?>location' <?php if ($page == "location") { echo "class='active'"; } ?>>Location</a></li>
 					<li class="navButton"><a href='<?php echo $site_url; ?>buy'>Buy Tickets</a></li>
+                    <!--
+                    <li><a href='<?php echo $site_url; ?>about' <?php if ($page == "about") { echo "class='active'"; } ?>>About</a></li>
+                    <li><a href='<?php echo $site_url; ?>contact' <?php if ($page == "contact") { echo "class='active'"; } ?>>Contact</a></li>
+                    -->
 				</ul>
 			</div>
 		</div>
