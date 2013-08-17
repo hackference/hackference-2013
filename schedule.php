@@ -69,7 +69,7 @@
                             <a name="command-all-the-things" ></a>
                             <h4>16:30 - 17:10 Command All The Things</h4>
                             <p><a href="/speakers#martyn-davies" class="speaker-profile" title="Command All The Things by Martyn Davies" >Martyn Davies</a></p>
-                            <p>Talk TBC</p>
+                            <p>In today's modern web development toolkit, the command line is king. Powerful, time saving applications are at your fingertips and they've never been more prevalent than they are right now. In this, almost-the-end-of-the-day-beer-soon 40 minutes, Martyn will discuss options for making your workflow faster than ever, looking at Yeoman, Grunt, Bower and others as well as when to go DRY and write your own using languages you know and love.</p>
                         </li>
                         <li>
                             <a name="the-state-of-packaged-web-apps" ></a>
