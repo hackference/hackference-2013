@@ -110,6 +110,11 @@
 			</div>
 		</div>
 		<div class="section group sponsors">
+			<div class="col span_1_of_4 sponsor">
+				<a href='https://www.tizen.org/' title="Tizen Project"><img src='<?php echo $site_url; ?>img/sponsors/tizen.png' /></a>
+			</div>
+		</div>
+		<div class="section group sponsors">
             <h4>A little help from our friends:</h4>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.sendgrid.com/' title="SendGrid"><img src='<?php echo $site_url; ?>img/sponsors/sendgrid.png' /></a>
