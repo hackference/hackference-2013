@@ -141,12 +141,16 @@
                                 <p>Enjoy a meal and start prepping that all-important presentation.</p>
                             </li>
                             <li>
-                                <h4>14:00 - 15:00 Submission and Presentation Writing</h4>
-                                <p>A last hour to make sure everything is submitted and iron out the presentation.</p>
+                                <h4>14:00 Submission</h4>
+                                <p>Submit your hacks to <a href="https://www.hackerleague.org/hackathons/hackference" target="_blank">Hacker League</a></p>
                             </li>
                             <li>
-                                <h4>15:30 - 17:00 Presentations</p>
+                                <h4>14:00 - 16:00 Presentations</p>
                                 <p>Quick presentations of your hard work to the judges and all the other hackers.</p>
+                            </li>
+                            <li>
+                                <h4>16:00 - End Judging and prizes</p>
+                                <p>Time for the judges to choose and give you prizes.</p>
                             </li>
                         </ul>
                     </div>

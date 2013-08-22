@@ -29,15 +29,10 @@
 				<a href='http://www.harveynash.com/'><img src='<?php echo $site_url; ?>img/sponsors/harvey-nash.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://launch48.com/'><img src='<?php echo $site_url; ?>img/sponsors/launch48.png' /></a>
-			</div>
-			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.oxygenaccelerator.com/'><img src='<?php echo $site_url; ?>img/sponsors/oxygen-accelerator.png' /></a>
-			</div>
-		</div>
-		<div class="section group sponsors">
-			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.10gen.com/' title="10gen"><img src='<?php echo $site_url; ?>img/sponsors/10gen.png' /></a>
+			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://bladerunnerjs.org/' title="BladeRunner JS"><img src='<?php echo $site_url; ?>img/sponsors/bladerunner-js.png' /></a>
 			</div>
 		</div>
 	</div>

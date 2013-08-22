@@ -52,7 +52,9 @@
 		<div class="section group">			
 			<div class="col span_10_of_10">
 				<div class="paras_small">
-					<p>The challenges and prizes will be announced closer to event.</p>
+					<p><a href="http://www.harveynash.com/" title="Harvey Nash" >Harvey Nash</a> are providing us with four current model Nexus 7 16GB tablets as the top prize for the best hack of the weekend, which is an amazing prize</p>
+                    <p>We also have, courtesy of <a href="http://github.com" >GitHub</a>, Bronze accounts to give out for the best hack and 4 other hacks as well.</p>
+                    <p>Check the profiles for each other API Partners for details about each one, and what they have going as a challenge and any prizes they are offering.</p>
 				</div>
 			</div>
 		</div>
@@ -112,6 +114,9 @@
 		<div class="section group sponsors">
 			<div class="col span_1_of_4 sponsor">
 				<a href='https://www.tizen.org/' title="Tizen Project"><img src='<?php echo $site_url; ?>img/sponsors/tizen.png' /></a>
+			</div>
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.motorolasolutions.com/US-EN/Business+Product+and+Services/Software+and+Applications/RhoMobile+Suite' title="RhoMobile from Motorola Solutions"><img src='<?php echo $site_url; ?>img/sponsors/rhomobile.png' /></a>
 			</div>
 		</div>
 		<div class="section group sponsors">
