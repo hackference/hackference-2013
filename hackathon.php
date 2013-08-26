@@ -90,7 +90,7 @@
 		<div class="section group sponsors">
 			<div class="col span_1_of_4 sponsor">
                 <div style="position:relative;" >
-                    <a href='http://www.paymill.com/' class="hackinfo fancybox.iframe"  title="Paymill"><img src='<?php echo $site_url; ?>img/sponsors/paymill.png' /></a>
+                    <a href='<?php echo $site_url; ?>api/paymill' class="hackinfo fancybox.iframe"  title="Paymill"><img src='<?php echo $site_url; ?>img/sponsors/paymill.png' /></a>
                     <div class="speakerCaption">
                         <a href='<?php echo $site_url; ?>api/paymill' class="hackinfo fancybox.iframe" title="Paymill" >More</a>
                     </div>
@@ -117,7 +117,12 @@
 				<a href='http://nodecopter.com/' title="Nodecopter"><img src='<?php echo $site_url; ?>img/sponsors/nodecopter.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://developer.paypal.com/' title="PayPal|Developer" ><img src='<?php echo $site_url; ?>img/sponsors/paypal_developer.png' /></a>
+				<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/paypal' class="hackinfo fancybox.iframe"  title="PayPal|Developer"><img src='<?php echo $site_url; ?>img/sponsors/paypal_developer.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/paypal' class="hackinfo fancybox.iframe" title="PayPal|Developer" >More</a>
+                    </div>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://pusher.com/' title="Pusher" ><img src='<?php echo $site_url; ?>img/sponsors/pusher.png' /></a>

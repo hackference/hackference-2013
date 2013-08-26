@@ -50,6 +50,11 @@ $(document).ready(function(){
         var speakerName = $(this).html();
         mixpanel.track("View "+speakerName+" Profile");
     });
+    /* Hackathon Profile */
+    $('.hackinfo').click(function(){
+        var speakerName = $(this).attr('title');
+        mixpanel.track("View "+speakerName+" Hack Profile");
+    });
     /**
      * 
      */
