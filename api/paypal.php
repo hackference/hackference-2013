@@ -32,9 +32,9 @@
 		</div>
 		<div class="section group">			
 			<div class="col span_10_of_10">
-                <p class="paras_small">
-                    The challenge will be for the best use of PAYMILL, with a prize of three Kindle Fire's up for grabs.
-                </p>
+                <div class="paras_small">
+                    <p></p>
+                </div>
 			</div>
 		</div>
         <?php */ ?>

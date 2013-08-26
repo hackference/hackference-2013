@@ -1,24 +1,24 @@
     <div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h2>PAYMILL</h2>
+				<h2>GoSquared</h2>
 				<span class="line"></span>
 			</div>
 		</div>
 		<div class="section group sponsors">
 			<div class="col span_2_of_10 sponsor">
-				<a href='https://www.paymill.com/en-gb/'>
-                    <img src='<?php echo $site_url; ?>img/sponsors/paymill.png' />
+				<a href='http://go.heroku.com/'>
+                    <img src='<?php echo $site_url; ?>img/sponsors/gosquared.png' />
                     <ul class="speakLinks">
                         <li>
-                            <a href="https://www.paymill.com/en-gb/">https://www.paymill.com/en-gb/</a>
+                            <a href="https://www.gosquared.com/developer/">https://www.gosquared.com/developer/</a>
                         </li>
                     </ul>
                 </a>
 			</div>
 			<div class="col span_8_of_10 sponsor">
 				<div class="paras_small">
-                    <p>PAYMILL offers the fastest and easiest way to accept payments online. The developer-friendly REST API is flexibly integrable. Customize the check-out process the way you want or use the PAYMILL PayButton which enables an even easier integration. Fast account activation. Top-notch customer support. Subscriptions supported and Mobile SDK’s for iOS and Android available. Accept payments online and mobile right away. Fast. Easy. In 38 countries across Europe so far. More to come.</p>
+                    <p>GoSquared is the analytics platform that helps you take action faster. Integrate with any website or app to monitor, understand and improve your business. GoSquared gives you the most intuitive dashboard for your key metrics and the most powerful API to build your own data-driven services.</p>
                 </div>
 			</div>
 		</div>
@@ -31,8 +31,8 @@
 		</div>
 		<div class="section group">			
 			<div class="col span_10_of_10">
-                <div class="paras_small">
-                    <p>The challenge will be for the best use of PAYMILL, with a prize of three Kindle Fire's up for grabs.</p>
+				<div class="paras_small">
+                    <p>The rare and much coveted GoSquared t-shirts are available for hackers of the GoSquared API, as well as codes for GoSquared accounts.</p>
                 </div>
 			</div>
 		</div>
@@ -47,7 +47,10 @@
 			<div class="col span_10_of_10">
                 <ul class="speakLinks">
                     <li>
-                        <a href="https://www.paymill.com/en-gb/documentation-3/" target="_blank" >https://www.paymill.com/en-gb/documentation-3/</a>
+                        <a href="https://www.gosquared.com/developer/docs/" target="_blank" >API Docs</a>
+                    </li>
+                    <li>
+                        <a href="https://www.gosquared.com/now/demo" target="_blank" >Live Demo</a>
                     </li>
                 </ul>
 			</div>
@@ -64,8 +67,12 @@
 			<div class="col span_10_of_10">
                 <ul class="speakLinks">
                     <li>
-                        <a href="http://twitter.com/paymill_tb" target="_blank">Tschela Baumann (@paymill_tb)</a><br>
-                        Senior Developer
+                        <a href="http://twitter.com/HughHopkins" target="_blank">Hugh Hopkins (@HughHopkins)</a><br>
+                        Business Development
+                    </li>
+                    <li>
+                        <a href="http://twitter.com/simon_tabor" target="_blank">Simon Tabor (@simon_tabor)</a><br>
+                        Developer
                     </li>
                 </ul>
 			</div>

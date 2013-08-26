@@ -84,7 +84,12 @@
 				<a href='http://joind.in/' title="JoindIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='https://www.gosquared.com/' title="GoSquared"><img src='<?php echo $site_url; ?>img/sponsors/gosquared.png' /></a>
+				<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/gosquared' class="hackinfo fancybox.iframe"  title="GoSquared"><img src='<?php echo $site_url; ?>img/sponsors/gosquared.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/gosquared' class="hackinfo fancybox.iframe" title="GoSquared" >More</a>
+                    </div>
+                </div>
 			</div>
 		</div>
 		<div class="section group sponsors">

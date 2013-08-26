@@ -64,11 +64,11 @@ $(document).ready(function(){
         $this.attr('href',unaddedLink+'?wrapper=no');
     });
 	$(".hackinfo").fancybox({
-        maxWidth	: 900,
-        maxHeight	: 700,
+        maxWidth	: 950,
+        maxHeight	: 800,
         fitToView	: false,
-        width		: '80%',
-        height		: '80%',
+        width		: '95%',
+        height		: '95%',
         autoSize	: false,
         closeClick	: false,
         openEffect	: 'none',
