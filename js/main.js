@@ -50,4 +50,23 @@ $(document).ready(function(){
         var speakerName = $(this).html();
         mixpanel.track("View "+speakerName+" Profile");
     });
+    /**
+     * 
+     */
+    $('.hackinfo').each(function(){
+        var $this = $(this);
+        var unaddedLink = $this.attr('href');
+        $this.attr('href',unaddedLink+'?wrapper=no');
+    });
+	$(".hackinfo").fancybox({
+        maxWidth	: 900,
+        maxHeight	: 700,
+        fitToView	: false,
+        width		: '80%',
+        height		: '80%',
+        autoSize	: false,
+        closeClick	: false,
+        openEffect	: 'none',
+        closeEffect	: 'none'
+	});
 });

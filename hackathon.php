@@ -71,7 +71,11 @@
 		<div class="section group sponsors">
             <h4>Supported on site</h4>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.soundcloud.com/' title="Sound Cloud"><img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' /></a>
+                <div style="position:relative;">
+                    <a href='http://www.soundcloud.com/' title="Sound Cloud">
+                        <img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' />
+                    </a>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.twilio.com/' title="Twilio"><img src='<?php echo $site_url; ?>img/sponsors/twilio.png' /></a>
@@ -85,10 +89,21 @@
 		</div>
 		<div class="section group sponsors">
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.paymill.com/' title="Paymill"><img src='<?php echo $site_url; ?>img/sponsors/paymill.png' /></a>
+                <div style="position:relative;" >
+                    <a href='http://www.paymill.com/' class="hackinfo fancybox.iframe"  title="Paymill"><img src='<?php echo $site_url; ?>img/sponsors/paymill.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/paymill' class="hackinfo fancybox.iframe" title="Paymill" >More</a>
+                    </div>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.heroku.com/' title="Heroku"><img src='<?php echo $site_url; ?>img/sponsors/heroku.png' /></a>
+                <div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/heroku' class="hackinfo fancybox.iframe" title="Heroku"><img src='<?php echo $site_url; ?>img/sponsors/heroku.png' />
+                        <div class="speakerCaption">
+                            <a href='<?php echo $site_url; ?>api/heroku' class="hackinfo fancybox.iframe" title="Heroku" >More</a>
+                        </div>
+                    </a>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://cloudfoundry.com/' title="Cloud Foundry"><img src='<?php echo $site_url; ?>img/sponsors/cloud-foundry.png' /></a>

@@ -1,5 +1,5 @@
 
-
+<?php if(!isset($_REQUEST['wrapper'])): ?>
 	<div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
@@ -35,6 +35,11 @@
 				<a href='http://bladerunnerjs.org/' title="BladeRunner JS"><img src='<?php echo $site_url; ?>img/sponsors/bladerunner-js.png' /></a>
 			</div>
 		</div>
+		<div class="section group sponsors">
+			<div class="col span_1_of_4 sponsor">
+				<a href='http://www.twilio.com/' title="Twilio"><img src='<?php echo $site_url; ?>img/sponsors/twilio.png' /></a>
+			</div>
+		</div>
 	</div>
 
     <footer id="sub">
@@ -63,7 +68,7 @@
 			</div>
 		</div>
 	</footer>
-
+<?php endif; ?>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
