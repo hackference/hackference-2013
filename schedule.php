@@ -63,7 +63,7 @@
                             <a name="go-in-the-real-world" ></a>
                             <h4>15:30- 16:10 Go in the Real World</h4>
                             <p><a href="/speakers#peter-bourgon" class="speaker-profile" title="Go in the Real World by Peter Bourgon" >Peter Bourgon</a></p>
-                            <p>Talk TBC</p>
+                            <p>Go is a young language that's gotten a lot of press. In this talk, Peter will give a brief overview of the language, describe how and at what scale SoundCloud uses Go in production, and then get right to work building an interesting application or two. Hopefully it will inspire you to use Go in your hack!</p>
                         </li>
                         <li>
                             <a name="command-all-the-things" ></a>
