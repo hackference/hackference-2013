@@ -23,7 +23,7 @@
                 </div>
 			</div>
 		</div>
-        <?php /* ?>
+        
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
 				<h2>Challenge</h2>
@@ -33,11 +33,11 @@
 		<div class="section group">			
 			<div class="col span_10_of_10">
                 <div class="paras_small">
-                    <p></p>
+                    <p>PayPal are giving away <a href="https://www.leapmotion.com/" target="_blank" >2 Leap Motion</a> controllers as a prize for the Best use of PayPal</p>
                 </div>
 			</div>
 		</div>
-        <?php */ ?>
+        
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
 				<h2>Resources</h2>

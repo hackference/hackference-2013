@@ -1,7 +1,7 @@
     <div id="sub">
 		<div class="section group">
 			<div class="col span_10_of_10 sub_heading">
-				<h2>GoSquared</h2>
+				<h2>Corona Labs</h2>
 				<span class="line"></span>
 			</div>
 		</div>
