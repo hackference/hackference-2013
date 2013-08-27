@@ -133,8 +133,7 @@
 				<a href='http://pusher.com/' title="Pusher" ><img src='<?php echo $site_url; ?>img/sponsors/pusher.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.coronalabs.com/' title="Corona Labs" ><img src='<?php echo $site_url; ?>img/sponsors/corona.png' /></a>
-                <div style="position:relative;" >
+				<div style="position:relative;" >
                     <a href='<?php echo $site_url; ?>api/corona' class="hackinfo fancybox.iframe"  title="Corona Labs"><img src='<?php echo $site_url; ?>img/sponsors/corona.png' /></a>
                     <div class="speakerCaption">
                         <a href='<?php echo $site_url; ?>api/corona' class="hackinfo fancybox.iframe" title="Corona Labs" >More</a>
