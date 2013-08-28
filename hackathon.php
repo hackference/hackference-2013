@@ -146,7 +146,12 @@
 				<a href='https://www.tizen.org/' title="Tizen Project"><img src='<?php echo $site_url; ?>img/sponsors/tizen.png' /></a>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://www.motorolasolutions.com/US-EN/Business+Product+and+Services/Software+and+Applications/RhoMobile+Suite' title="RhoMobile from Motorola Solutions"><img src='<?php echo $site_url; ?>img/sponsors/rhomobile.png' /></a>
+				<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/rhomobile' class="hackinfo fancybox.iframe"  title="RhoMobile from Motorola Solutions"><img src='<?php echo $site_url; ?>img/sponsors/rhomobile.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/rhomobile' class="hackinfo fancybox.iframe" title="RhoMobile from Motorola Solutions" >More</a>
+                    </div>
+                </div>
 			</div>
 		</div>
 		<div class="section group sponsors">
