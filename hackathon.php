@@ -18,7 +18,7 @@
 			</div>
             <div class="col span_4_of_10" >
                 <img src="<?php echo $site_url; ?>img/screamin_dev.jpg" />
-            </div> 
+            </div>
 		</div>
 	</div>
 
@@ -29,7 +29,7 @@
 				<span class="line"></span>
 			</div>
 		</div>
-		<div class="section group">			
+		<div class="section group">
 			<div class="col span_10_of_10">
 				<div class="paras_small">
 					<p>
@@ -49,7 +49,7 @@
 				<span class="line"></span>
 			</div>
 		</div>
-		<div class="section group">			
+		<div class="section group">
 			<div class="col span_10_of_10">
 				<div class="paras_small">
 					<p><a href="http://www.harveynash.com/" title="Harvey Nash" >Harvey Nash</a> are providing us with four current model Nexus 7 16GB tablets as the top prize for the best hack of the weekend, which is an amazing prize</p>
@@ -111,7 +111,13 @@
                 </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://cloudfoundry.com/' title="Cloud Foundry"><img src='<?php echo $site_url; ?>img/sponsors/cloud-foundry.png' /></a>
+          			<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/cloudfoundry' class="hackinfo fancybox.iframe" title="Cloud Foundry"><img src='<?php echo $site_url; ?>img/sponsors/cloud-foundry.png' />
+                        <div class="speakerCaption">
+                            <a href='<?php echo $site_url; ?>api/cloudfoundry' class="hackinfo fancybox.iframe" title="CloudFoundry" >More</a>
+                        </div>
+                    </a>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<a href='http://www.couchbase.com/' title="Couchbase"><img src='<?php echo $site_url; ?>img/sponsors/couchbase.png' /></a>
