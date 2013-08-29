@@ -65,29 +65,16 @@
 		<div class="section group">
 
 			<div class="col span_5_of_10 speakerSingle">
-                <a name="david-mytton" ></a>
+                <a name="john-stevenson" ></a>
 				<div class="speakerPicture">
-					<img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
+					<img src='https://secure.gravatar.com/avatar/6e5d5991b86e76c4ae9bb8e990e5712f?s=400&d=404' />
 				</div>
-				<div class="speakerName">David Mytton</div>
-                <ul class="speakLinks">
-                    <li>
-                        <a href="<?php echo $site_url; ?>schedule#from-download-to-deployment-with-mongodb" >From download to deployment with MongoDB</a>
-                    </li>
-                </ul>
-				<p>David Mytton is the founder of server monitoring tool, Server Density, where he has been using MongoDB in production for almost 4 years. He has been programming in PHP and Python for over 10 years, regularly speaks about MongoDB (including starting the London MongoDB User Group), co-founded the Open Rights Group and can often be found cycling in London or drinking tea in Japan.</p>
+                <div class="speakerName">John Stevenson</div>
+				<p>A developer advocate for Heroku and Salesforce. Coaches lean & agile techniques (especially kanban, ToC, BDD) and Clojure functional programming.</p>
                 <ul class="speakLinks">
                     <li>
                         <img src="http://twitter.com/favicon.ico" width="16px"/>
-                        <a href="https://twitter.com/davidmytton" >Twitter</a>
-                    </li>
-                    <li>
-                        <img src="http://www.serverdensity.com/favicon.ico" width="16px" />
-                        <a href="http://www.serverdensity.com/" >Server Density</a>
-                    </li>
-                    <li>
-                        <img src="http://serverdensity.wpengine.netdna-cdn.com/wp-content/themes/blog.sd/favicon.ico" width="16px" />
-                        <a href="http://blog.serverdensity.com/" >Server Density Blog</a>
+                        <a href="https://twitter.com/jr0cket" >Twitter</a>
                     </li>
                 </ul>
 			</div>
@@ -234,7 +221,7 @@
 			<div class="col span_5_of_10 speakerSingle">
                 <a name="mark-godfrey" ></a>
 				<div class="speakerPicture">
-					<img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+					<img src='<?php echo $site_url; ?>img/speakers/mark-godfrey.jpg' />
 				</div>
 				<div class="speakerName">Mark Godfrey</div>
                 <ul class="speakLinks">
@@ -242,7 +229,7 @@
                         <a href="<?php echo $site_url; ?>schedule#why-clojure" >Why Clojure?</a>
                     </li>
                 </ul>
-				<p>Coming soon...</p>
+				<p>Software engineer at Nokia Entertainment in Bristol, loves learning about programming languages. Former quantum cryptologist.</p>
 			</div>
 
 			<div class="col span_5_of_10 speakerSingle">

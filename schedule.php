@@ -54,10 +54,10 @@
                             <p>In this introduction to Clojure, Joe and Mark will explain what makes Clojure a powerful and compelling language, why engineers at Nokia Entertainment now use it daily and love it, and why you should consider choosing Clojure for your next project.</p>
                         </li>
                         <li>
-                            <a name="from-download-to-deployment-with-mongodb" ></a>
-                            <h4>14:40 - 15:20 From download to deployment with MongoDB</h4>
-                            <p><a href="/speakers#david-mytton" class="speaker-profile" title="From download to deployment with MongoDB by David Mytton" >David Mytton</a></p>
-                            <p>This talk will take you on a tour of MongoDB from how to get started, development tips and things to avoid with schema design all the way through to considerations for production deployment. Suitable for beginners and more advanced users, it will help you not just get going but also understand how to start scaling a real deployment.</p>
+                            <a name="git-and-github" ></a>
+                            <h4>14:40 - 15:20 Talk TC</h4>
+                            <p><a href="/speakers#john-stevenson" class="speaker-profile" title="" >John Stevenson</a></p>
+                            <p>Talk TBC.</p>
                         </li>
                         <li>
                             <a name="go-in-the-real-world" ></a>

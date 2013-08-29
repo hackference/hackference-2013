@@ -48,9 +48,9 @@
 			</div>
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
-                    <a href='<?php echo $site_url; ?>speakers#david-mytton'>
-                        <img src='<?php echo $site_url; ?>img/speakers/david-mytton.png' />
-                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#david-mytton'>David Mytton</a></div>
+                    <a href='<?php echo $site_url; ?>speakers#john-stevenson'>
+                        <img src='https://secure.gravatar.com/avatar/6e5d5991b86e76c4ae9bb8e990e5712f?s=400&d=404' />
+                        <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#john-stevenson'>John Stevenson</a></div>
                     </a>
 				</div>
 			</div>
@@ -102,7 +102,7 @@
 			<div class="col span_1_of_3 speaker">
 				<div style="position: relative">
                     <a href='<?php echo $site_url; ?>speakers#mark-godfrey'>
-                        <img src='http://fakeimg.pl/300x300/ccc/fff/?text=Coming%20Soon' />
+                        <img src='<?php echo $site_url; ?>img/speakers/mark-godfrey.jpg' />
                         <div class="speakerCaption"><a href='<?php echo $site_url; ?>speakers#mark-godfrey'>Mark Godfrey</a></div>
                     </a>
 				</div>
