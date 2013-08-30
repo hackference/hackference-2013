@@ -72,9 +72,12 @@
             <h4>Supported on site</h4>
 			<div class="col span_1_of_4 sponsor">
                 <div style="position:relative;">
-                    <a href='http://www.soundcloud.com/' title="Sound Cloud">
+                    <a href='<?php echo $site_url; ?>api/soundcloud' title="SoundCloud">
                         <img src='<?php echo $site_url; ?>img/sponsors/soundcloud.png' />
                     </a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/soundcloud' class="hackinfo fancybox.iframe" title="SoundCloud" >More</a>
+                    </div>
                 </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
