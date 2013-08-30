@@ -89,7 +89,12 @@
                 </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://joind.in/' title="JoindIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
+				<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/joindin' class="hackinfo fancybox.iframe"  title="JoindIn"><img src='<?php echo $site_url; ?>img/sponsors/joindin.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/joindin' class="hackinfo fancybox.iframe" title="JoindIn" >More</a>
+                    </div>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<div style="position:relative;" >
