@@ -130,7 +130,12 @@
 		</div>
 		<div class="section group sponsors">
 			<div class="col span_1_of_4 sponsor">
-				<a href='http://nodecopter.com/' title="Nodecopter"><img src='<?php echo $site_url; ?>img/sponsors/nodecopter.png' /></a>
+				<div style="position:relative;" >
+                    <a href='<?php echo $site_url; ?>api/nodecopter' class="hackinfo fancybox.iframe"  title="NodeCopter"><img src='<?php echo $site_url; ?>img/sponsors/nodecopter.png' /></a>
+                    <div class="speakerCaption">
+                        <a href='<?php echo $site_url; ?>api/nodecopter' class="hackinfo fancybox.iframe" title="NodeCopter" >More</a>
+                    </div>
+                </div>
 			</div>
 			<div class="col span_1_of_4 sponsor">
 				<div style="position:relative;" >
