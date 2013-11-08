@@ -73,7 +73,6 @@ $spearkers = array(
 //    array('Andy','Piper','andypiper'),
     array('Clarent','Roew',''),
     array('Mike','Elsmore','ukmadlz & @hackferencebrum'),
-    array('Katy','Soon to be Elsmore','cheekybat'),
 );
 foreach($spearkers as $spearker)
 {
